@@ -1,0 +1,10 @@
+[submodule "bizpanda"]
+	path = bizpanda
+	url = ssh://git@bitbucket.org/OnePress/wp-bizpanda
+
+[submodule "panda-items/email-locker"]
+	path = panda-items/email-locker
+	url = ssh://git@bitbucket.org/OnePress/bizpanda-emaillocker
+[submodule "panda-items/signin-locker"]
+	path = panda-items/signin-locker
+	url = ssh://git@bitbucket.org/OnePress/bizpanda-signinlocker

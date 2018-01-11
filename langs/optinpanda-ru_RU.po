@@ -1,0 +1,3726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sociallocker\n"
+"POT-Creation-Date: 2017-12-15 03:36+0300\n"
+"PO-Revision-Date: 2017-12-15 03:39+0300\n"
+"Last-Translator: alex.kovalevv@gmail.com <alex.kovalevv@gmail.com>\n"
+"Language-Team: Alex Kovalev <alex.kovalevv@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libs\n"
+"X-Poedit-SearchPathExcluded-1: ../addons\n"
+"X-Poedit-SearchPathExcluded-2: ../panda-items\n"
+"X-Poedit-SearchPathExcluded-3: bizpanda\n"
+
+#: panda-items/email-locker/admin/boot.php:53
+msgid "Email Locker (default)"
+msgstr "Email замок (По умолчанию)"
+
+#: panda-items/email-locker/admin/boot.php:57
+msgid "This Content Is Only For Subscribers"
+msgstr "Этот контент только для подписчиков"
+
+#: panda-items/email-locker/admin/boot.php:58
+msgid ""
+"Please subscribe to unlock this content. Enter your email to get access."
+msgstr ""
+"Пожалуйста, подпишитесь, чтобы открыть скрытый контент. Введите email адрес, "
+"чтобы получить доступ."
+
+#: panda-items/email-locker/admin/boot.php:121
+#: panda-items/email-locker/admin/boot.php:130
+#: panda-items/signin-locker/admin/boot.php:137
+#: panda-items/signin-locker/admin/boot.php:146
+#, php-format
+msgid ""
+"This theme is available only in the <a href=\"%s\" target=\"_blank\">premium "
+"version</a> of the plugin"
+msgstr ""
+"Эта опция доступна только в <a href=\"%s\" target=\"_blank\">премиум версии</"
+"a> плагина ( в бесплатной версии будет использовать режим Прозрачности)."
+
+#: panda-items/email-locker/admin/boot.php:210
+#: panda-items/signin-locker/admin/boot.php:212
+msgid "<i class=\"fa fa-search\"></i> Summary"
+msgstr "<i class=\"fa fa-search\"></i> Сводка"
+
+#: panda-items/email-locker/admin/boot.php:211
+#: panda-items/signin-locker/admin/boot.php:213
+msgid "The page shows the total number of unlocks for the current locker."
+msgstr "Страницы показывают общее количество открытий текущего замка."
+
+#: panda-items/email-locker/admin/boot.php:219
+#: panda-items/signin-locker/admin/boot.php:221
+msgid "<i class=\"fa fa-usd\"></i> Benefits"
+msgstr "<i class=\"fa fa-usd\"></i> Выгода"
+
+#: panda-items/email-locker/admin/boot.php:220
+#: panda-items/signin-locker/admin/boot.php:222
+msgid "The page shows benefits the locker brought for your website."
+msgstr "На странице показана выгода, полученная от замка для вашего веб-сайта."
+
+#: panda-items/email-locker/admin/boot.php:228
+#: panda-items/signin-locker/admin/boot.php:230
+msgid "<i class=\"fa fa-search-plus\"></i> Channels"
+msgstr "<i class=\"fa fa-search-plus\"></i> Каналы"
+
+#: panda-items/email-locker/admin/boot.php:229
+#: panda-items/signin-locker/admin/boot.php:231
+msgid "The page shows which ways visitors used to unlock the content."
+msgstr ""
+"На странице показаны способы, которые пользователи использовали для открытия "
+"контента, а так же количество."
+
+#: panda-items/email-locker/admin/boot.php:237
+#: panda-items/signin-locker/admin/boot.php:239
+msgid "<i class=\"fa fa-sign-out\"></i> Bounces"
+msgstr "<i class=\"fa fa-sign-out\"></i> Отказы"
+
+#: panda-items/email-locker/admin/boot.php:238
+#: panda-items/signin-locker/admin/boot.php:240
+msgid ""
+"The page shows major weaknesses of the locker which lead to bounces. Hover "
+"your mouse pointer on [?] in the table, to know more about a particular "
+"metric."
+msgstr ""
+"На странице показаны основные недостатки замков, которые приводят к отказам. "
+"Наведите указатель мыши на [?] в таблице, чтобы узнать больше о конкретной "
+"метрике."
+
+#: panda-items/email-locker/admin/boot.php:246
+#: panda-items/signin-locker/admin/boot.php:252
+msgid "<i class=\"fa fa-tint\"></i> Skips"
+msgstr "<i class=\"fa fa-tint\"></i> Утечки"
+
+#: panda-items/email-locker/admin/boot.php:247
+#: panda-items/signin-locker/admin/boot.php:253
+msgid ""
+"The chart shows how many users skipped the locker by using the Timer or "
+"Close Icon, comparing to the users who unlocked the content."
+msgstr ""
+"На диаграмме показано, сколько пользователей открыло замок с помощью таймера "
+"или кнопки \"Закрыть\", по сравнению с пользователями, которые открыли "
+"контент стандартным способом."
+
+#: panda-items/email-locker/admin/help/usage-example.php:8
+#: panda-items/signin-locker/admin/help/usage-example.php:6
+#: plugin/admin/boot.php:845 plugin/admin/boot.php:864
+msgid "Quick Start Guide"
+msgstr "Быстрый старт"
+
+#: panda-items/email-locker/admin/help/usage-example.php:11
+msgid ""
+"To pick out the content which should be locked, you can use special "
+"shortcodes. During installation, the plugin created for you the shortcode "
+"<span class=\"onp-mark onp-mark-gray onp-mark-stricked onp-code"
+"\">[emaillocker][/emaillocker]</span> named <strong>Email Locker</strong>."
+msgstr ""
+"Чтобы выделить часть контента, который вы хотите заблокировать, вы можете "
+"использовать для этого специальные шорткоды. Во время установки плагина "
+"автоматически создается шорткод по умолчанию [emaillocker][/emaillocker] с "
+"именем \"Email замок\"."
+
+#: panda-items/email-locker/admin/help/usage-example.php:15
+#: panda-items/signin-locker/admin/help/usage-example.php:27
+msgid ""
+"<strong>Note:</strong> You can create more shortcodes at any time for "
+"whatever you need them for. For instance, you could create one for locking "
+"video players or another one for locking download links."
+msgstr ""
+"<strong>Заметка:</strong> Вы можете создать свои собственные шорткоды в "
+"любом количестве. Например, вы могли бы создать шорткод, чтобы заблокировать "
+"видео или картинку."
+
+#: panda-items/email-locker/admin/help/usage-example.php:19
+msgid ""
+"But before you start, you need to choose your email marketing service which "
+"will be used to store contacts of your future subscribers."
+msgstr ""
+"Но прежде чем начать, вам нужно выбрать службы email рассылки, которые вы "
+"будете использовать для хранения контактов ваших будущих клиентов."
+
+#: panda-items/email-locker/admin/help/usage-example.php:23
+msgid ""
+"The plugin supports all the major mailing services, including <a href="
+"\"http://mailchimp.com\">MailChimp</a>, <a href=\"http://aweber.com"
+"\">Aweber</a>, <a href=\"http://getresponse.com\">GetResponse</a>."
+msgstr ""
+"Плагин поддерживает различные почтовые сервисы, включая <a href=\"http://"
+"mailchimp.com\">MailChimp</a>, <a href=\"http://aweber.com\">Aweber</a>, <a "
+"href=\"http://getresponse.com\">GetResponse</a>."
+
+#: panda-items/email-locker/admin/help/usage-example.php:27
+msgid ""
+"Concurrently the Email Locker saves contacts of all the attracted "
+"subscribers locally in your Wordpress database. You can export them later at "
+"any time."
+msgstr ""
+"В тоже время email замок сохраняет контакты всех привлеченных клиентов в "
+"локальную базу данных Wordpress. Вы можете экспортировать их в любое время."
+
+#: panda-items/email-locker/admin/help/usage-example.php:31
+msgid "Choose your email service"
+msgstr "Выбор сервиса email рассылок"
+
+#: panda-items/email-locker/admin/help/usage-example.php:34
+msgid ""
+"To configure your email marketing service, open the screen "
+"<strong>Subscription Options</strong>:"
+msgstr ""
+"Чтобы настроить сервисы email рассылки, откройте экран <strong>Опции "
+"подписки</strong>:"
+
+#: panda-items/email-locker/admin/help/usage-example.php:36
+#, php-format
+msgid ""
+"Opt-In Panda > Global Settings -> <a href=\"%s\">Subscription Options</a>"
+msgstr "Opt-In Panda > Общие настройки -> <a href=\"%s\">Опции подписки</a>"
+
+#: panda-items/email-locker/admin/help/usage-example.php:40
+msgid ""
+"Select your email service or select \"None\" to store the contacts locally "
+"only in your Wordpress database."
+msgstr ""
+"Выберите сервисы email рассылок, или выберите «По умолчанию» для хранения "
+"контактов в локальной базе данных Wordpress."
+
+#: panda-items/email-locker/admin/help/usage-example.php:44
+msgid ""
+"Now let's examine how to use the default shortcode <strong>Email Locker</"
+"strong>."
+msgstr ""
+"Теперь давайте рассмотрим, как использовать шорткод по умолчанию<strong> "
+"Email замок</strong>."
+
+#: panda-items/email-locker/admin/help/usage-example.php:48
+#: panda-items/signin-locker/admin/help/usage-example.php:77
+msgid "Open the editor"
+msgstr "Открываем редактор"
+
+#: panda-items/email-locker/admin/help/usage-example.php:50
+#: panda-items/signin-locker/admin/help/usage-example.php:79
+#, php-format
+msgid "In admin menu, select Opt-In Panda -> <a href=\"%s\">All Lockers</a>."
+msgstr ""
+"В меню администратора выбираем Социальный замок -> <a href=\"%s\">Список "
+"замков</a>."
+
+#: panda-items/email-locker/admin/help/usage-example.php:52
+msgid ""
+"Then click on the shortcode titled <strong>Email Locker</strong> to open its "
+"editor:"
+msgstr ""
+"Затем нажмите на шорткод с заголовком <strong>Email замок</strong> для "
+"открытия его в редакторе:"
+
+#: panda-items/email-locker/admin/help/usage-example.php:59
+#: panda-items/signin-locker/admin/help/usage-example.php:88
+msgid "Configure the locker"
+msgstr "Настройка замка"
+
+#: panda-items/email-locker/admin/help/usage-example.php:62
+#: panda-items/signin-locker/admin/help/usage-example.php:91
+msgid ""
+"Set a clear title that attracts attention or creates a call to action (see "
+"the example below)."
+msgstr ""
+"Придумайте и введите заголовок, который привлекает внимание или призывает к "
+"действию (см. пример ниже)."
+
+#: panda-items/email-locker/admin/help/usage-example.php:65
+#: panda-items/signin-locker/admin/help/usage-example.php:94
+msgid ""
+"Describe what the visitor will get after they unlock the content. This is "
+"very important, as visitors need to be aware of what they are getting. And "
+"please, only promise things you can deliver."
+msgstr ""
+"Опишите, что пользователь получит после того, как он разблокирует "
+"содержимое. Это очень важно, так как пользователи должны быть осведомлены о "
+"том, что они получают. Пожалуйста, не пишите в описании о том, чего не "
+"можете предложить вашему посетителю."
+
+#: panda-items/email-locker/admin/help/usage-example.php:68
+msgid ""
+"Specify the button text related with your call-to-action and if needed the "
+"text below the button."
+msgstr ""
+"Укажите текст кнопки, связанный с вашим призывом к действию и при "
+"необходимости текст ниже кнопки."
+
+#: panda-items/email-locker/admin/help/usage-example.php:70
+#: panda-items/signin-locker/admin/help/usage-example.php:96
+msgid "Choose one of the available themes for your locker."
+msgstr "Выберите тему под дизайн вашего сайта и вкусу."
+
+#: panda-items/email-locker/admin/help/usage-example.php:73
+#: panda-items/signin-locker/admin/help/usage-example.php:99
+msgid ""
+"Set the Overlay Mode. We recommend to use the Blurring Mode as the most "
+"attention-grabbing mode."
+msgstr ""
+"Установите режим наложения. Мы рекомендуем использовать режим размытия, это "
+"самый популярный режим, он способен увеличить шанс открытия замка до 30%."
+
+#: panda-items/email-locker/admin/help/usage-example.php:80
+msgid ""
+"If you have configured the Email Locker to use one of the third party email "
+"marketing services, select the list where you would like to add new "
+"subscribers."
+msgstr ""
+"Если вы используете email замок с внешними сервисами рассылки, то вам "
+"необходимо будет выбрать список рассылки, куда вы хотите сохранять "
+"подписчиков."
+
+#: panda-items/email-locker/admin/help/usage-example.php:84
+msgid "Set one of the available opt-in modes:"
+msgstr "Установите один из доступных режимов проверки:"
+
+#: panda-items/email-locker/admin/help/usage-example.php:89
+msgid "Mode Name"
+msgstr "Название режима"
+
+#: panda-items/email-locker/admin/help/usage-example.php:90
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:759
+#: plugin/admin/pages/help/optinpanda.php:12
+msgid "Description"
+msgstr "Описание"
+
+#: panda-items/email-locker/admin/help/usage-example.php:95
+msgid "Single Opt-In"
+msgstr "Одинарная проверка"
+
+#: panda-items/email-locker/admin/help/usage-example.php:96
+msgid ""
+"Unlocks the content immediately after the user clicks the button to "
+"subscribe. Doesn't send the confirmation email."
+msgstr ""
+"Разблокирует содержимое сразу после того, как пользователь вводит свой адрес "
+"электронной почты. Не отправляет подтверждение по электронной почте."
+
+#: panda-items/email-locker/admin/help/usage-example.php:99
+msgid "Lazy Double Opt-In"
+msgstr "Ленивая двойная проверка"
+
+#: panda-items/email-locker/admin/help/usage-example.php:100
+msgid ""
+"Unlocks the content immediately after the user clicks the button as well as "
+"the Single Opt-In Mode but also sends the confirmation email (double opt-in)."
+msgstr ""
+"Разблокирует содержимое сразу после того, как пользователь вводит свой адрес "
+"электронной почты, но также посылает сообщение о подтверждении подписки по "
+"электронной почте."
+
+#: panda-items/email-locker/admin/help/usage-example.php:104
+msgid "Full Double Opt-In"
+msgstr "Двойная проверка"
+
+#: panda-items/email-locker/admin/help/usage-example.php:105
+msgid "(recommended)"
+msgstr "(рекомендуется)"
+
+#: panda-items/email-locker/admin/help/usage-example.php:107
+msgid ""
+"After the user clicks the button, sends the confirmation email and waits "
+"until the user confirms one's subscription. Then, unlocks the content."
+msgstr ""
+"После того, как пользователь вводит свой адрес электронной почты, плагин "
+"отправляет ему подтверждение, и ждет пока пользователь не подтвердит "
+"подписку. И только после этого, разблокирует содержимое."
+
+#: panda-items/email-locker/admin/help/usage-example.php:112
+msgid ""
+"Decide do you really need to know a name of the subscriber. Remember less "
+"you ask, more opt-ins you get."
+msgstr ""
+"Выберите необходимые поля для своей формы, мы рекомендуем вам избегать "
+"большого количества полей, если вы хотите увеличить конверсию формы."
+
+#: panda-items/email-locker/admin/help/usage-example.php:116
+msgid ""
+"For some users social networks is a more preferred way to subscribe, as a "
+"result, it may increase the conversion of your locker. Play around with the "
+"subscription through social networks later. Now you can skip it."
+msgstr ""
+"Для некоторых пользователей более предпочтительным способом подписаться "
+"будет авторизация в социальной сети. Поэкспериментируйте с этим способом "
+"подписки, чтобы убедиться, что это очень удобно. Вы можете пропустить этот "
+"пункт."
+
+#: panda-items/email-locker/admin/help/usage-example.php:120
+msgid ""
+"The subscription through social networks works the same as through the form. "
+"Just an email address and name of the user is recivied from the social "
+"network."
+msgstr ""
+"Подписка через социальные сети работает так же, как через форму. Просто "
+"email адрес и имя пользователя будут получены из социальной сети."
+
+#: panda-items/email-locker/admin/help/usage-example.php:128
+#: panda-items/signin-locker/admin/help/usage-example.php:134
+#, php-format
+msgid ""
+"The page <a href=\"%s\">Stats & Reports</a> will help you to correct your "
+"locker after collecting the first statistical data."
+msgstr ""
+"Страница <a href=\"%s\">статистики и отчетов</a> поможет вам более гибко "
+"настроить замок исходя из полученных данных от уже использованного ранее "
+"замка."
+
+#: panda-items/email-locker/admin/help/usage-example.php:134
+#: panda-items/signin-locker/admin/help/usage-example.php:138
+msgid ""
+"On the right sidebars, there are some additional options which can help you "
+"to adjust the locker to your site audience. Try to use them by yourself "
+"later."
+msgstr ""
+"Справа на боковых панелях есть дополнительные опции, которые могут помочь "
+"вам настроить замок для вашей аудитории. Попробуйте использовать их "
+"самостоятельно."
+
+#: panda-items/email-locker/admin/help/usage-example.php:140
+#: panda-items/signin-locker/admin/help/usage-example.php:130
+msgid "Congratulations! The locker is ready to use."
+msgstr "Поздравляем! Ваш замок готов к использованию."
+
+#: panda-items/email-locker/admin/help/usage-example.php:144
+#: panda-items/signin-locker/admin/help/usage-example.php:142
+msgid "Place the locker shortcode"
+msgstr "Установка шорткода"
+
+#: panda-items/email-locker/admin/help/usage-example.php:147
+#: panda-items/signin-locker/admin/help/usage-example.php:145
+msgid "Decide what content you would like to lock. It might be:"
+msgstr "Вы должны решить, какой контент вы ходите закрыть. Возможно это:"
+
+#: panda-items/email-locker/admin/help/usage-example.php:149
+#: panda-items/signin-locker/admin/help/usage-example.php:147
+msgid ""
+"A download link (for instance, a free graphic, an audio file, video "
+"resources, or a printable pdf of your article)."
+msgstr ""
+"Ссылка для скачивания(графические изображение, pdf или аудио файл, видео)"
+
+#: panda-items/email-locker/admin/help/usage-example.php:150
+#: panda-items/signin-locker/admin/help/usage-example.php:148
+#, php-format
+msgid ""
+"A promo code (for instance, a %s off discount, if the visitor shares your "
+"promo page)."
+msgstr ""
+"Промокод (предоставляет %s скидку пользователям, которые поделятся вашей "
+"страничкой)"
+
+#: panda-items/email-locker/admin/help/usage-example.php:151
+#: panda-items/signin-locker/admin/help/usage-example.php:149
+msgid ""
+"The end of your article (for instance, you might show the beginning of the "
+"article to gain interest, but hide the ending)."
+msgstr ""
+"Часть статьи (отрывок статьи в середине или в конце, с какой-то очень важной "
+"информацией для посетителя)"
+
+#: panda-items/email-locker/admin/help/usage-example.php:153
+#: panda-items/signin-locker/admin/help/usage-example.php:151
+msgid ""
+"Basically, you can hide any content that would be important for visitors who "
+"are visiting your site."
+msgstr ""
+"В принципе, вы можете скрыть любое содержимое, которое будет иметь значение "
+"для ваших посетителей."
+
+#: panda-items/email-locker/admin/help/usage-example.php:156
+#: panda-items/signin-locker/admin/help/usage-example.php:154
+msgid "However, <strong>you should never</strong>:"
+msgstr "При этом, <strong>никогда</strong> не закрывайте:"
+
+#: panda-items/email-locker/admin/help/usage-example.php:159
+#: panda-items/signin-locker/admin/help/usage-example.php:157
+msgid "Lock all of your content, posts or pages."
+msgstr "Весь контент на странице"
+
+#: panda-items/email-locker/admin/help/usage-example.php:162
+#: panda-items/signin-locker/admin/help/usage-example.php:160
+msgid "Lock boring content or content that is not interesting."
+msgstr "Скучный и неинтересный контент"
+
+#: panda-items/email-locker/admin/help/usage-example.php:167
+#: panda-items/signin-locker/admin/help/usage-example.php:165
+msgid "In other words, don’t try to trick your visitors."
+msgstr "Другими словами не пытайтесь обмануть ваших посетителей."
+
+#: panda-items/email-locker/admin/help/usage-example.php:171
+msgid ""
+"Open the post editor for the post where you want to put the locker. Wrap the "
+"content you want to lock within the locker shortcode. For example: <span "
+"class=\"onp-mark onp-mark-gray onp-mark-stricked onp-code\">[emaillocker] "
+"Locked Content Goes Here [/emaillocker]</span>:"
+msgstr ""
+"Откройте страницу редактирования записи, в которой хотите разместить замок. "
+"Затем оберните содержимое шорткодом. Например <span class=\"onp-mark onp-"
+"mark-gray onp-mark-stricked onp-code\">[emaillocker]Заблокированный контент[/"
+"emaillocker]</span>:"
+
+#: panda-items/email-locker/admin/help/usage-example.php:179
+#: panda-items/signin-locker/admin/help/usage-example.php:177
+msgid "That’s it! Save your post and see the locker on your site! "
+msgstr ""
+"Вот и все! Сохраните вашу запись и перейдите по адресу вашей записи, чтобы "
+"увидеть результат."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:8
+#: panda-items/email-locker/boot.php:27 panda-items/email-locker/boot.php:38
+#: panda-items/signin-locker/admin/help/what-is-it.php:106
+#: plugin/admin/boot.php:836 plugin/admin/pages/help/optinpanda.php:17
+msgid "Email Locker"
+msgstr "Email замок"
+
+#: panda-items/email-locker/admin/help/what-is-it.php:11
+msgid ""
+"Email Locker locks a portion of content on a webpage, by hiding or blurring "
+"it, and asks the visitor to enter his email address to unlock it."
+msgstr ""
+"Email замок скрывает часть ценного контента на страницах вашего сайта, пока "
+"пользователь не подпишется на вашу email рассылку, чтобы разблокировать его."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:14
+msgid ""
+"That gives users a strong reason to subscribe, turning visitors into "
+"subscribers and potential customers."
+msgstr ""
+"Это дает пользователям вескую причину, чтобы подписаться, превращая их  в "
+"подписчиков и потенциальных клиентов."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:17
+msgid ""
+"Let's remember about traditional ways of list-building to see benefits of "
+"the Email Locker."
+msgstr ""
+"Давайте вспомним о обычных методах подписки, чтобы увидеть различия и "
+"преимущества email замка перед другими инструментами для сбора подписчиков."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:22
+msgid "Traditional Ways"
+msgstr "Обычные способы"
+
+#: panda-items/email-locker/admin/help/what-is-it.php:27
+msgid "Subscription forms"
+msgstr "Формы подписки"
+
+#: panda-items/email-locker/admin/help/what-is-it.php:28
+msgid ""
+"Put in various places of websites (e.g. on sidebar, after posts). To make "
+"these forms work well, you need to write a strong call-to-action linked with "
+"the post content. But usually all of them have <span class=\"onp-stress"
+"\">extremely low conversion</span>."
+msgstr ""
+"Очень часто их можно встретить на боковой панели или в конце страницы веб-"
+"сайтов. Чтобы посетители подписались через подобную форму подписки, вам "
+"необходимо написать сильный призыв к действию. Но обычно данный способ имеет "
+"<span class=\"onp-stress\">крайне низкую конверсию</span>."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:31
+msgid "Popups"
+msgstr "Всплывающие окна"
+
+#: panda-items/email-locker/admin/help/what-is-it.php:32
+msgid ""
+"Attract lots of attention but more and more <span class=\"onp-stress\">users "
+"starts ignoring them</span>. Just because people face these identical popups "
+"on every website."
+msgstr ""
+"Привлекают много внимания, но все больше и больше <span class=\"onp-stress"
+"\">пользователей начинает игнорировать их</span>. Просто потому, что "
+"сталкиваясь с вирусными методами рекламы на других веб-сайтах, пользователи "
+"интуитивно закрывают всплывающие окна."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:35
+msgid "Squeeze pages"
+msgstr "Одностраничники"
+
+#: panda-items/email-locker/admin/help/what-is-it.php:36
+msgid ""
+"If perfectly designed, they can bring you plenty new subscribers. But they "
+"<span class=\"onp-stress\">require redirecting traffic</span> to particular "
+"pages and <span class=\"onp-stress\">plenty work to setup</span>. Usually "
+"used only as landing pages for specific promotion campaigns."
+msgstr ""
+"Хороший способ для сбора подписной базы. Но они <span class=\"onp-stress"
+"\">требуют перенаправления трафика</span> для отдельных страниц и <span "
+"class=\"onp-stress\">много работы по конструированию содержания</span>. "
+"Больше всего данный способ подойдет для конкретных рекламных кампаний."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:41
+msgid ""
+"Email Locker aggregates well all the advantages of the traditional ways and "
+"avoids their weaknesses:"
+msgstr ""
+"Email замок объединяет в себе все преимущества обычных способов и избегает "
+"их недостатки:"
+
+#: panda-items/email-locker/admin/help/what-is-it.php:43
+msgid ""
+"The Email Locker creates a <span class=\"onp-stress\">strong call-to-action</"
+"span>, by incentivizing the users to subscribe in return at unlocking some "
+"value content."
+msgstr ""
+"Email замок создает <span class=\"onp-stress\">сильный призыв к действию</"
+"span>, стимулируя пользователей подписываться взамен на скрытое содержимое."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:44
+msgid ""
+"The Email Locker is built into the post content and looks like an integral "
+"part of page. The user cannot close or skip it unlike popups. What's more, "
+"it <span class=\"onp-stress\">attracts huge attention</span> like popups "
+"thanks to bright themes and effects."
+msgstr ""
+"Email замок может быть встроен в запись или страницу. Пользователь не может "
+"закрыть или пропустить его, в отличие от всплывающих окон. Он хорошо <span "
+"class=\"onp-stress\">привлекает внимание</span>, как и всплывающие окна, но "
+"благодаря своим ярким темам и визуальным эффектам."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:45
+msgid ""
+"The Email Locker is flexible and highly configurable. You can put it "
+"anywhere, <span class=\"onp-stress\">on any page at any place</span>, and "
+"make it looking relevant to any content."
+msgstr ""
+"Email замок имеет гибкую и прозрачную настройку. Вы можете поместить его в "
+"любом месте, <span class=\"onp-stress\">на любой странице</span> и сделать "
+"его заметным повсюду."
+
+#: panda-items/email-locker/admin/help/what-is-it.php:49
+msgid "Learn how to configure and use Email Locker"
+msgstr "Узнайте, как настроить и использовать Email замок"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:62
+#: panda-items/email-locker/admin/metaboxes/more-features.php:118
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:62
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:82
+msgid "More Features?"
+msgstr "Хотите больше возможностей?"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:120
+#, php-format
+msgid "You Use Only %s of Opt-In Panda!"
+msgstr "Вы используете плагин всего на %s!"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:124
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:88
+#, php-format
+msgid "%s Complete"
+msgstr "%s завершено"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:135
+#: plugin/admin/pages/premium.php:180
+msgid "Custom Fields"
+msgstr "Произвольные поля"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:136
+msgid "Extra Themes (+2)"
+msgstr "Дополнительные темы(+2)"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:137
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:101
+msgid "Blurring Effect"
+msgstr "Эффект размытия"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:138
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:102
+msgid "Advanced Options (+8)"
+msgstr "Продвинутые опции (+8)"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:139
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:103
+msgid "Premium Support"
+msgstr "Премиум поддержка"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:145
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:109
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"btn btn-primary btn-large\">Get Premium for $24<br /"
+"><span>(it will take a pair of minutes)</span></a>"
+msgstr ""
+"<a href=\"%s\" class=\"btn btn-primary btn-large\">Купить премиум версию<br /"
+"><span>(это займет не больше минуты)</span></a>"
+
+#: panda-items/email-locker/admin/metaboxes/more-features.php:149
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:113
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"btn btn-primary btn-large\">Try 7-days Trial "
+"Version<br /><span>(activate by one click)</span></a><a href=\"%s\" class="
+"\"sl-buy\"> or <strong>buy</strong> the full premium version now!</a>"
+msgstr ""
+"<a href=\"%s\" class=\"btn btn-primary btn-large\">Активировать на 7 дней "
+"<br /><span>(бесплатная пробная версия)</span></a><a href=\"%s\" class=\"sl-"
+"buy\"> или <strong>купите</strong> премиум версию сейчас!</a>"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:54
+msgid "Subscription Options"
+msgstr "Опции подписки"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:110
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:126
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:144
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:161
+msgid "List"
+msgstr "Список"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:111
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:145
+msgid "Specify the list ID to add subscribers."
+msgstr "Укажите идентификатор списка для добавления подписчиков."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:125
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:160
+msgid "- empty -"
+msgstr "- пусто -"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:127
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:162
+msgid "Select the list to add subscribers."
+msgstr "Выберите список для добавления подписчиков."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:140
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:173
+msgid "Opt-In Mode"
+msgstr "Режимы проверки"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:148
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:191
+#, php-format
+msgid "Through %s"
+msgstr "Через %s"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:149
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:192
+#, php-format
+msgid "%s takes care about sending confirmation emails."
+msgstr "%s отвечает за доставку писем подтверждения по электронной почте."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:153
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:196
+msgid "Through Wordpress"
+msgstr "Через Wordpress"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:154
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:197
+msgid ""
+"Wordpress and installed plugins take care about sending confirmation emails. "
+"By default Wordpress utilizes an email delivery service of your web host "
+"(usually not reliable). Fortunately there is plenty of reliable services you "
+"can integrate easily (<a href=\"https://wordpress.org/plugins/sendgrid-email-"
+"delivery-simplified/\" target=\"_blank\">SendGrid</a>, <a href=\"https://"
+"wordpress.org/plugins/mailin/\" target=\"_blank\">SendinBlue</a>, <a href="
+"\"https://wordpress.org/plugins/wpmandrill/\" target=\"_blank\">Mandrill</"
+"a>, <a href=\"https://wordpress.org/plugins/postmark-approved-wordpress-"
+"plugin/\" target=\"_blank\">Postmark</a>, <a href=\"https://wordpress.org/"
+"plugins/mailjet-for-wordpress/\" target=\"_blank\">Mailjet</a>, <a href="
+"\"https://wordpress.org/plugins/wp-ses/\" target=\"_blank\">Amazon SES</a> "
+"and others)."
+msgstr ""
+"Wordpress и установленные плагины отвечают за доставку письма подтверждения "
+"на электронную почту ваших пользователей. По умолчанию Wordpress использует "
+"службу доставки вашего веб-хостинга (как правило, эта служба не надежна). К "
+"счастью, есть множество надежных услуг, которые вы можете легко "
+"интегрировать в Wordpress (<a href=\"https://wordpress.org/plugins/sendgrid-"
+"email-delivery-simplified/\" target=\"_blank\">SendGrid</a>, <a href="
+"\"https://wordpress.org/plugins/mailin/\" target=\"_blank\">SendinBlue</a>, "
+"<a href=\"https://wordpress.org/plugins/wpmandrill/\" target=\"_blank"
+"\">Mandrill</a>, <a href=\"https://wordpress.org/plugins/postmark-approved-"
+"wordpress-plugin/\" target=\"_blank\">Postmark</a>, <a href=\"https://"
+"wordpress.org/plugins/mailjet-for-wordpress/\" target=\"_blank\">Mailjet</"
+"a>, <a href=\"https://wordpress.org/plugins/wp-ses/\" target=\"_blank"
+"\">Amazon SES</a> и другие)."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:176
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:219
+msgid "Send Confirmation"
+msgstr "Отправить подтверждение"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:194
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:238
+msgid "Subject"
+msgstr "Тема"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:195
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:239
+msgid "Please confirm your email address"
+msgstr "Пожалуйста подтвердите ваш адрес электронной почты"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:201
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:820
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:245
+msgid "Text"
+msgstr "Текст"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:202
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:246
+msgid ""
+"Use the shortcode <strong>[link]</strong> to insert the confirmation link."
+msgstr ""
+"Используйте шорткод <strong>[link]</strong>, чтобы вставить ссылку для "
+"подтверждения."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:209
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:253
+#, php-format
+msgid ""
+"To confirm your email address and unlock the content, please click the link "
+"below:<br />[link]<br/><br/>-<br/>%s<br/>%s"
+msgstr ""
+"Чтобы подтвердить адрес электронной почты и разблокировать содержимое, "
+"пожалуйста, нажмите на ссылку ниже:<br>[link]<br><br>-<br>%s<br>%s"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:237
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:252
+msgid "Email Only"
+msgstr "Только Email"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:238
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:253
+msgid "Name & Email"
+msgstr "Имя & Email"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:239
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:256
+msgid "Custom Form"
+msgstr "Своя форма"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:241
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:260
+msgid "Form Fields"
+msgstr "Поля формы"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:242
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:261
+msgid "Choose which fields the user has to fill to unlock your content."
+msgstr ""
+"Выберите поля, которые пользователь должен заполнить, чтобы разблокировать "
+"скрытый контент."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:257
+#, php-format
+msgid ""
+"This option is available only in the <a href=\"%s\" target=\"_blank"
+"\">premium version</a> of the plugin (the transparency mode will be used in "
+"the free version)"
+msgstr ""
+"Эта опция доступна только в <a href=\"%s\" target=\"_blank\">премиум версии</"
+"a> плагина ( в бесплатной версии будет использовать режим Прозрачности)."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:280
+#: plugin/admin/pages/premium.php:188
+msgid "Social Subscription"
+msgstr "Подписка через социальные сети"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:281
+msgid "Turn on to allow the subscription through social networks."
+msgstr "Включите, чтобы разрешить подписку через социальные сети."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:293
+msgid "Above Text"
+msgstr "Над текстом"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:294
+msgid "The text above the buttons."
+msgstr "Текст над кнопками."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:295
+msgid "subscribe via your social profile by one click"
+msgstr "подписаться через ваш социальный профиль одним нажатием"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:302
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:603
+#, fuzzy
+msgid "Facebook"
+msgstr "Цвет Facebook"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:303
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:647
+#, fuzzy
+msgid "Google"
+msgstr "Цвет Google"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:304
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:669
+#, fuzzy
+msgid "LinkedIn"
+msgstr "Цвет LinkedIn"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:308
+msgid "Social Networks"
+msgstr "Социальные сети"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:309
+msgid "Mark available social networks."
+msgstr "Выберите доступные социальные сети."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:313
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:689
+msgid "Vkontakte"
+msgstr "Вконтакте"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:381
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:1021
+#, php-format
+msgid ""
+"The emails will be saved in the <a href=\"%s\" target=\"_blank\">local "
+"database</a> because you haven't selected a mailing service"
+msgstr ""
+"Собранные email адреса будут сохранены в <a href=\"%s\" target=\"_blank"
+"\">локальную базу данных</a>, так как вы не выбрали сервисы email рассылки."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:383
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:1023
+#, php-format
+msgid "You selected <strong>%s</strong> as your mailing service"
+msgstr "Вы выбрали <strong>%s</strong>, как ваш почтовый сервис"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:386
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:1026
+msgid "change"
+msgstr "изменить"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:403
+#, php-format
+msgid ""
+"To enable the social subscription option, please install the Social Locker "
+"plugin which provides social features. <a href=\"%s\" target=\"_blank"
+"\">Click here to learn more</a>."
+msgstr ""
+"Чтобы включить подписку через социальные сети, пожалуйста, установите плагин "
+"Социальный замок, который обеспечивает социальные функции. <a href=\"%s\" "
+"target=\"_blank\">Нажмите здесь, чтобы узнать больше</a>."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:415
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:474
+msgid "Fields"
+msgstr "Поля"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:417
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:476
+msgid "<strong>Hint:</strong> drag & drop to reorder the fields."
+msgstr ""
+"<strong>Подсказка:</strong> перетащите и отпустите, чтобы изменить порядок "
+"полей."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:431
+#, php-format
+msgid ""
+"The confirmation email to send. You can change the sender email in the <a "
+"href=\"%s\" target=\"_blank\">global settings</a>."
+msgstr ""
+"Отправка подтверждения по электронной почте. Вы можете изменить отправителя "
+"электронной почты в <a href=\"%s\" target=\"_blank\">общих настройках</a>."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:444
+msgid "Database"
+msgstr "База данных"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:446
+#, php-format
+msgid ""
+"Choose how this field will work. Map it to one of custom fields in %s or use "
+"it as a helper element to decorate your form."
+msgstr ""
+"Выберите, как будет работать это поле. Сопоставить его с одним из "
+"настраиваемых полей в %s или использовать его как вспомогательный элемент "
+"для украшения вашей формы."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:458
+msgid "Unexpected error occurred. Please try to refresh this page."
+msgstr ""
+"Произошла непредвиденная ошибка. Пожалуйста, попробуйте обновить эту "
+"страницу."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:459
+msgid ""
+"The value from this field will be used as an email address. This field is "
+"always required."
+msgstr ""
+"Значение этого поля будет использоваться как адрес электронной почты. Это "
+"поле всегда обязательно для заполнения."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:460
+msgid "enter your email"
+msgstr "введите ваш email"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:461
+msgid ""
+"The value from this field will be splited (if possible) into the two parts: "
+"First and Last Namey. Use this field instead of creating a separate field "
+"for each name."
+msgstr ""
+"Значение этого поля будет разделено (если это возможно) на две части: имя и "
+"фамилия. Это поле можно использовать вместо создания отдельного для каждой "
+"части вашего ФИО."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:462
+msgid "enter your name"
+msgstr "введите ваше имя"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:463
+msgid "[ - loading - ]"
+msgstr "[ - загрузка - ]"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:464
+msgid "[ - error - ]"
+msgstr "[ - ошибка - ]"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:465
+msgid "enter your phone number"
+msgstr "введите Ваш номер телефона"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:466
+msgid "enter your birthday"
+msgstr "введите Ваш день рождения"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:467
+msgid "Write here why the user has to mark it."
+msgstr "Напишите здесь, почему пользователь должен отметить его."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:468
+msgid "Text Label:"
+msgstr "Текст метки:"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:469
+msgid "[ - unsupported- ]"
+msgstr "[ - не поддерживается - ]"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:470
+msgid ""
+"The custom field of this type is not supported currently with the plugin."
+msgstr ""
+"Настраиваемое поле этого типа  в настоящее время не поддерживается плагином."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:491
+msgid "Icon"
+msgstr "Иконка"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:494
+msgid "Destination"
+msgstr "Назначение"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:502
+msgid "Field Label"
+msgstr "Имя Поля"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:506
+msgid ""
+"The Field Label is an internal name of the field used in reports and lead "
+"details."
+msgstr "Имя поля используются в отчетах и деталях подписки."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:510
+msgid "Control Type"
+msgstr "Тип поля"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:513
+msgid "Required?"
+msgstr "Обязательное?"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:548
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:620
+msgid "Icon Position"
+msgstr "Позиция Иконки"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:552
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:624
+msgid "Right"
+msgstr "Справа"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:553
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:625
+msgid "Left"
+msgstr "Слева"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:554
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:626
+#: plugin/boot.php:25
+msgid "None"
+msgstr "По умолчанию"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:557
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:629
+msgid "The position of the icon."
+msgstr "Выберите положение иконки"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:562
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:634
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:690
+msgid "Title"
+msgstr "Заголовок"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:568
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:640
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:696
+msgid "Optional. The title appears above the field."
+msgstr "Необязательно. Название отображается над полем."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:573
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:645
+msgid "Placeholder"
+msgstr "Заглушка"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:579
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:651
+msgid "Optional. The placeholder appears in the textbox when it's empty."
+msgstr ""
+"Необязательно. Заглушка в текстовом поле появляется, когда оно не заполнено."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:585
+msgid "Mask"
+msgstr "Маска"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:592
+#, php-format
+msgid ""
+"Optional. <a href=\"%s\" target=\"_blank\">Set the mask</a> if you need the "
+"user to fill this field in the certain format."
+msgstr ""
+"Необязательно. <a href=\"%s\" target=\"_blank\">задайте маску</a>, если "
+"необходимо, чтобы пользователи заполняли это поле в определенном формате. "
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:597
+msgid "Is Password"
+msgstr "Это пароль"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:603
+msgid "Check to hide content of this field behind \"*\"."
+msgstr "Отметьте, чтобы закрыть контент в этом поле символом \"*\""
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:613
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:683
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:730
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:752
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:809
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:835
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:857
+msgid "Hide Options"
+msgstr "Скрыть опции"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:657
+msgid "Min Value"
+msgstr "Мин. значение"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:663
+msgid "Optional. The minimum allowed value."
+msgstr "Необязательно. Минимальное допустимое значение."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:668
+msgid "Max Value"
+msgstr "Макс. значение"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:674
+msgid "Optional. The maximum allowed value."
+msgstr "Необязательно. Максимально допустимое значение."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:708
+msgid "Choices"
+msgstr "Выбрать"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:714
+msgid "Option Title"
+msgstr "Заголовок: "
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:720
+msgid "Add Choice"
+msgstr "Добавить пункт"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:737
+msgid "Value"
+msgstr "Значение"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:743
+msgid "This value will be saved when submitting the form."
+msgstr "Это значение будет сохраняться при отправке формы."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:765
+msgid "The description appears next to the checkbox."
+msgstr "Описание отображается рядом с флажком."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:770
+msgid "Marked By Default"
+msgstr "Состояние по умполчанию"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:776
+msgid "Check to make this checkbox marked by default."
+msgstr "Сделать этот флажок отмеченным по умолчанию"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:783
+msgid "Marked Value"
+msgstr "Значение если выбрано"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:789
+msgid "This value will be saved if the checkbox is marked."
+msgstr "Это значение будет сохранено, если флажок отмечен."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:794
+msgid "Unmarked Value"
+msgstr "Значение если не выбрано"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:800
+msgid "This value will be saved if the checkbox is not marked."
+msgstr "Это значение будет сохранено, если флажок не отмечен."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:815
+msgid "The separator does not have any options to configure."
+msgstr "Разделитель не имеет настроек."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:826
+msgid "Enter text for the label to display."
+msgstr "Введите текст метки для отображения."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:842
+msgid "Html"
+msgstr ""
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:848
+msgid "Paste here html code to display."
+msgstr "Вставьте html-код для отображения."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:863
+msgid "Sorry, it seems we plugin does not support this field type."
+msgstr "К сожалению, плагин не поддерживает этот тип поля."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:869
+msgid "Add Field"
+msgstr "Добавить поле"
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:914
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:884
+#, php-format
+msgid ""
+"You need to register a Facebook App for your website. Please <a href=\"%s\" "
+"target=\"_blank\">click here</a> to learn more."
+msgstr ""
+"Если вы хотите использовать эту кнопку, вам необходимо установить Facebook "
+"App ID. Пожалуйста, <a href=\"%s\" target=\"_blank\">нажмите сюда</a>, чтобы "
+"перейти на страницу настроек."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:931
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:929
+#, php-format
+msgid ""
+"You need to get a Google Client ID for your website. Please <a href=\"%s\" "
+"target=\"_blank\">click here</a> to learn more."
+msgstr ""
+"Если вы хотите использовать эту кнопку, вам необходимо установить Google "
+"Client ID. Пожалуйста, <a href=\"%s\" target=\"_blank\">нажмите сюда</a>, "
+"чтобы перейти на страницу настроек."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:950
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:959
+#, php-format
+msgid ""
+"You need to get LinkedIn Client ID and Secret for your website. Please <a "
+"href=\"%s\" target=\"_blank\">click here</a> to learn more."
+msgstr ""
+"Если вы хотите использовать эту кнопку, вам необходимо установить LinkedIn "
+"Client и Secret ID. Пожалуйста, <a href=\"%s\" target=\"_blank\">нажмите "
+"сюда</a>, чтобы перейти на страницу настроек."
+
+#: panda-items/email-locker/admin/metaboxes/subscription-options.php:970
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:980
+#, php-format
+msgid ""
+"You need to get a Vk app id and protected key for your website. Please <a "
+"href=\"%s\" target=\"_blank\">click here</a> to learn more."
+msgstr ""
+"Вам необходимо получить идентификатор приложения и защищенный ключ "
+"Вконтакте  для вашего сайта. Пожалуйста , <a href=\"%s\" target=\"_blank"
+"\">нажмите здесь</a> , чтобы узнать больше."
+
+#: panda-items/email-locker/admin/stats/bounces.php:15
+#: panda-items/email-locker/admin/stats/channels.php:13
+#: panda-items/email-locker/admin/stats/profits.php:13
+#: panda-items/email-locker/admin/stats/skips.php:13
+#: panda-items/email-locker/admin/stats/summary.php:13
+#: panda-items/signin-locker/admin/stats/bounces.php:14
+#: panda-items/signin-locker/admin/stats/channels.php:14
+#: panda-items/signin-locker/admin/stats/profits.php:13
+#: panda-items/signin-locker/admin/stats/skips.php:14
+#: panda-items/signin-locker/admin/stats/summary.php:13
+msgid "Post Title"
+msgstr "Заголовок"
+
+#: panda-items/email-locker/admin/stats/bounces.php:18
+#: panda-items/email-locker/admin/stats/summary.php:16
+#: panda-items/signin-locker/admin/stats/bounces.php:17
+#: panda-items/signin-locker/admin/stats/summary.php:16
+msgid "Impressions"
+msgstr "Просмотров"
+
+#: panda-items/email-locker/admin/stats/bounces.php:23
+#: panda-items/signin-locker/admin/stats/bounces.php:22
+msgid "Visitors Who"
+msgstr "Посетители"
+
+#: panda-items/email-locker/admin/stats/bounces.php:36
+#: panda-items/signin-locker/admin/stats/bounces.php:32
+msgid "Faced Errors"
+msgstr "Столкнулись с ошибками"
+
+#: panda-items/email-locker/admin/stats/bounces.php:37
+#: panda-items/signin-locker/admin/stats/bounces.php:33
+msgid ""
+"Visitors who faced with any errors and were not able to unlock the content. "
+"This value normally should be equal 0. If not, please check settings of your "
+"locker or contact OnePress support."
+msgstr ""
+"Посетители, которые столкнулись с ошибками и не смогли разблокировать "
+"контент. Обычно это значение должно быть равно 0. Если нет, пожалуйста, "
+"проверьте настройки вашего замка или обратитесь в службу поддержки OnePress."
+
+#: panda-items/email-locker/admin/stats/bounces.php:41
+#: panda-items/signin-locker/admin/stats/bounces.php:37
+msgid "Declined Social Apps"
+msgstr "Отклонили авторизацию"
+
+#: panda-items/email-locker/admin/stats/bounces.php:42
+#: panda-items/signin-locker/admin/stats/bounces.php:38
+msgid ""
+"Visitors who refused to authorize of your social apps. If you think this "
+"value is too large, try to set less social actions to be performed on "
+"signing in through social networks."
+msgstr ""
+"Посетители, которые отказались авторизоваться в вашем приложении. Если вы "
+"считаете, что это отказов слишком много, попробуйте установить меньше "
+"действий для одной кнопки (оставить, например, только подписку)."
+
+#: panda-items/email-locker/admin/stats/bounces.php:89
+#: panda-items/email-locker/admin/stats/channels.php:49
+#: panda-items/email-locker/admin/stats/profits.php:50
+#: panda-items/email-locker/admin/stats/skips.php:42
+#: panda-items/email-locker/admin/stats/summary.php:44
+#: panda-items/signin-locker/admin/stats/bounces.php:106
+#: panda-items/signin-locker/admin/stats/channels.php:65
+#: panda-items/signin-locker/admin/stats/profits.php:103
+#: panda-items/signin-locker/admin/stats/skips.php:44
+#: panda-items/signin-locker/admin/stats/summary.php:46
+msgid "Date"
+msgstr "Дата"
+
+#: panda-items/email-locker/admin/stats/bounces.php:99
+#: panda-items/signin-locker/admin/stats/bounces.php:115
+msgid "Who Faced Errors"
+msgstr "Столкнулись с ошибками"
+
+#: panda-items/email-locker/admin/stats/bounces.php:104
+#: panda-items/signin-locker/admin/stats/bounces.php:120
+msgid "Who Declined Social Apps"
+msgstr "Отклонили авторизацию"
+
+#: panda-items/email-locker/admin/stats/channels.php:16
+#: panda-items/email-locker/admin/stats/profits.php:16
+#: panda-items/email-locker/admin/stats/skips.php:16
+#: panda-items/email-locker/admin/stats/skips.php:45
+#: panda-items/email-locker/admin/stats/summary.php:20
+#: panda-items/email-locker/admin/stats/summary.php:47
+#: panda-items/signin-locker/admin/stats/channels.php:17
+#: panda-items/signin-locker/admin/stats/skips.php:17
+#: panda-items/signin-locker/admin/stats/skips.php:47
+#: panda-items/signin-locker/admin/stats/summary.php:20
+#: panda-items/signin-locker/admin/stats/summary.php:49
+msgid "Number of Unlocks"
+msgstr "Количество открытий"
+
+#: panda-items/email-locker/admin/stats/channels.php:17
+#: panda-items/email-locker/admin/stats/profits.php:17
+#: panda-items/email-locker/admin/stats/skips.php:17
+#: panda-items/email-locker/admin/stats/summary.php:21
+#: panda-items/signin-locker/admin/stats/channels.php:18
+#: panda-items/signin-locker/admin/stats/profits.php:17
+#: panda-items/signin-locker/admin/stats/skips.php:18
+#: panda-items/signin-locker/admin/stats/summary.php:21
+msgid "The number of unlocks made by visitors."
+msgstr "Число открытий замка сделанных пользователями."
+
+#: panda-items/email-locker/admin/stats/channels.php:22
+#: panda-items/email-locker/admin/stats/channels.php:52
+#: panda-items/signin-locker/admin/stats/channels.php:23
+#: panda-items/signin-locker/admin/stats/channels.php:68
+msgid "Via Opt-In Form"
+msgstr "Через форму подписки"
+
+#: panda-items/email-locker/admin/stats/channels.php:26
+#: panda-items/email-locker/admin/stats/channels.php:56
+#: panda-items/signin-locker/admin/stats/channels.php:27
+#: panda-items/signin-locker/admin/stats/channels.php:72
+msgid "Via Facebook"
+msgstr "Через Facebook"
+
+#: panda-items/email-locker/admin/stats/channels.php:30
+#: panda-items/email-locker/admin/stats/channels.php:60
+#: panda-items/signin-locker/admin/stats/channels.php:35
+#: panda-items/signin-locker/admin/stats/channels.php:80
+msgid "Via Google"
+msgstr "Через Google"
+
+#: panda-items/email-locker/admin/stats/channels.php:34
+#: panda-items/email-locker/admin/stats/channels.php:64
+#: panda-items/signin-locker/admin/stats/channels.php:39
+#: panda-items/signin-locker/admin/stats/channels.php:84
+msgid "Via LinkedIn"
+msgstr "Через LinkedIn"
+
+#: panda-items/email-locker/admin/stats/profits.php:22
+#: panda-items/email-locker/admin/stats/profits.php:53
+msgid "Emails Collected"
+msgstr "Email адресов"
+
+#: panda-items/email-locker/admin/stats/profits.php:23
+#: panda-items/signin-locker/admin/stats/profits.php:27
+msgid ""
+"The number of new emails added to the database. If the email exists in the "
+"database, this email will not be counted."
+msgstr ""
+"Количество новых email адресов, добавленных в базу данных. Если email адрес "
+"уже существует в базе данных, он не будет учитываться."
+
+#: panda-items/email-locker/admin/stats/profits.php:37
+msgid "confirmed"
+msgstr "подтвержден"
+
+#: panda-items/email-locker/admin/stats/profits.php:57
+msgid "Subscriptions Confirmed"
+msgstr "Подписки подтверждены"
+
+#: panda-items/email-locker/admin/stats/skips.php:22
+#: panda-items/email-locker/admin/stats/skips.php:49
+#: panda-items/signin-locker/admin/stats/skips.php:23
+#: panda-items/signin-locker/admin/stats/skips.php:51
+msgid "Skipped by Timer"
+msgstr "Открыто по таймеру"
+
+#: panda-items/email-locker/admin/stats/skips.php:27
+#: panda-items/email-locker/admin/stats/skips.php:54
+#: panda-items/signin-locker/admin/stats/skips.php:28
+#: panda-items/signin-locker/admin/stats/skips.php:56
+msgid "Skipped by Close Icon"
+msgstr "Открыто через кнопку \"Закрыть\""
+
+#: panda-items/email-locker/admin/stats/summary.php:26
+#: panda-items/signin-locker/admin/help/what-is-it.php:81
+#: panda-items/signin-locker/admin/help/what-is-it.php:116
+#: panda-items/signin-locker/admin/stats/summary.php:26
+msgid "Conversion"
+msgstr "Конверсия"
+
+#: panda-items/email-locker/admin/stats/summary.php:27
+#: panda-items/signin-locker/admin/stats/summary.php:27
+msgid "The ratio of the number of unlocks to impressions, in percentage."
+msgstr "Соотношение количества открытий к просмотрам, в процентах."
+
+#: panda-items/email-locker/boot.php:29 panda-items/email-locker/boot.php:40
+msgid ""
+"<p>Asks visitors to subscribe to unlock some value content.</p><p>Perfect "
+"way to build your mailing list without any extra costs or efforts.</p>"
+msgstr ""
+"<p>Просит посетителей подписаться на вашу рассылку, чтобы открыть скрытый "
+"контент.</p><p>Идеальный способ набрать подписчиков в ваш список email "
+"рассылки, без особых усилий и затрат.</p>"
+
+#: panda-items/signin-locker/admin/boot.php:53
+msgid "Sign-In Locker (default)"
+msgstr "Замок авторизации (по умолчанию)"
+
+#: panda-items/signin-locker/admin/boot.php:57
+msgid "Sign In To Unlock This Content"
+msgstr "Этот контент заблокирован"
+
+#: panda-items/signin-locker/admin/boot.php:58
+msgid ""
+"Please sign in. It's free. Just click one of the buttons below to get "
+"instant access."
+msgstr ""
+"Пожалуйста, поддержите нас, авторизуйтесь в одной из социальных сетей ниже, "
+"чтобы получить доступ к заблокированному контенту."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:11
+msgid ""
+"Using the Sign-In Locker is similar to using the Social Locker but it "
+"require a bit more efforts for the initial configuration."
+msgstr ""
+"Использование \"Замка авторизации\" работает по принципу Социального замка, "
+"но \"Замок авторизации\" требует больше шагов, чтобы открыть контент."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:17
+msgid ""
+"Using the Sign-In Locker is similar to using the Email Locker but it require "
+"a bit more efforts for the initial configuration."
+msgstr ""
+"Замка авторизации работает по принципу Email замка, но требует больше "
+"времени и усилий для настройки."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:23
+msgid ""
+"To pick out the content which should be locked, you can use special "
+"shortcodes. During installation, the plugin created for you the shortcode "
+"<span class=\"onp-mark onp-mark-gray onp-mark-stricked onp-code"
+"\">[signinlocker][/signinlocker]</span> named <strong>Sign-In Locker</"
+"strong>."
+msgstr ""
+"Чтобы выделить часть контента, который вы хотите заблокировать, вы можете "
+"использовать для этого специальные шорткоды. Во время установки плагина "
+"автоматически создается шорткод по умолчанию <span class=\"onp-mark onp-mark-"
+"gray onp-mark-stricked onp-code\">[signinlocker][/signinlocker]</span> с "
+"именем  <strong>\"Замок авторизации\"</strong>."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:31
+msgid "Register social apps"
+msgstr "Создание приложений в социальных сетях"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:33
+msgid ""
+"Before you will be able to use the Sign-In Locker, you need to register a "
+"set of social apps (API Keys, App IDs, Client IDs and so) for your website."
+msgstr ""
+"Прежде чем начать использовать \"Замок авторизации\", вам необходимо "
+"зарегистрировать набор социальных приложений (получить API ключи, App Id, "
+"Client ID и т.д.) для вашего сайта."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:35
+msgid "You need to make it only once."
+msgstr "Вам необходимо сделать это только один раз."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:37
+msgid ""
+"Then you will be able to use these apps with the Sign-In Locker and with any "
+"other plugins."
+msgstr ""
+"Тогда у вас будет возможность использовать эти приложения с \"Замком "
+"авторизации\" и с любыми другими плагинами."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:39
+msgid ""
+"We recommend you to start using the Sign-In Locker with 3 buttons: Facebook, "
+"Twitter and Google by skipping LinkedIn. You will be able to configure "
+"LinkedIn later:"
+msgstr ""
+"Мы рекомендуем вам начать использовать \"Замок авторизации\" с 3-мя "
+"кнопками: Facebook, Twitter и Google, пропуская LinkedIn. Вы сможете "
+"настроить LinkedIn позже:"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:43
+msgid "Button Name"
+msgstr "Название кнопки"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:44
+msgid "Your action to make it work"
+msgstr "Ваши действия, чтобы заставить кнопку работать"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:48
+msgid "Facebook Sign-In Button"
+msgstr "Кнопка авторизации в Facebook"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:50
+msgid "Require creating a Facebook App"
+msgstr "Обязательная установка ID приложения в Facebook"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:54
+msgid "Twitter Sign-In Button"
+msgstr "Кнопка авторизации в Twitter"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:56
+msgid "Ready to use by default."
+msgstr "Готов к использованию по умолчанию."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:57
+msgid "Lean when you need to create your own app</a>"
+msgstr "Узнать, когда и как создать приложение в Twitter"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:61
+msgid "Google Sign-In Button"
+msgstr "Кнопка авторизации в Google"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:63
+msgid "Require getting Google Client ID"
+msgstr "Обязательная установка Google клиент ID"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:67
+msgid "LinkedIn Sign-In Button"
+msgstr "Кнопка авторизации в LinkedIn"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:69
+msgid "Require getting a LinkedIn API Key"
+msgstr "Обязательная установка ключа LinkedIn API"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:73
+msgid ""
+"Now when you have created apps for Facebook and Google, let's examine how to "
+"use the default shortcode <strong>Sign-In Locker</strong>."
+msgstr ""
+"Теперь, когда вы создали приложения для Вконтакте, Facebook и Google, "
+"давайте рассмотрим, как использовать шорткод, созданный плагином по "
+"умолчанию <strong>Sign-In Locker</strong>."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:81
+msgid ""
+"Then click on the shortcode titled <strong>Sign-In Locker</strong> to open "
+"its editor:"
+msgstr ""
+"Нажмите на шорткод с заголовком <strong>Замок авторизации</strong>, чтобы "
+"открыть редактор замка:"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:106
+msgid ""
+"Make sure that the Facebook, Twitter and Google buttons are marked. That "
+"makes available for the users to sign in through the respective social "
+"networks."
+msgstr ""
+"Убедитесь, что кнопки Facebook, Twitter и Google доступны и активированы."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:110
+msgid ""
+"Select actions you would like to execute for each button when the user "
+"clicks it to sign in."
+msgstr ""
+"Выберите действия, которые вы хотели бы, чтобы были выполнены после "
+"авторизации пользователя в вашем приложении (Вконтакте, Google и т.д.)"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:114
+msgid "Configure each action."
+msgstr "Настройте каждое действие индивидуально, нажав на заголовок действия."
+
+#: panda-items/signin-locker/admin/help/usage-example.php:122
+msgid ""
+"Check out the image below to learn how to configure the buttons and their "
+"actions:"
+msgstr ""
+"Посмотрите на изображение ниже, чтобы увидеть как правильно выбрать и "
+"настроить каждое действие:"
+
+#: panda-items/signin-locker/admin/help/usage-example.php:169
+msgid ""
+"Open the post editor for the post where you want to put the locker. Wrap the "
+"content you want to lock within the locker shortcode. For example: <span "
+"class=\"onp-mark onp-mark-gray onp-mark-stricked onp-code\">[signinlocker] "
+"Locked Content Goes Here [/signinlocker]</span>:"
+msgstr ""
+"Откройте страницу редактирования записи, в которой хотите разместить замок. "
+"Затем оберните содержимое шорткодом. Например <span class=\"onp-mark onp-"
+"mark-gray onp-mark-stricked onp-code\">[signinlocker]Заблокированный "
+"контент[/signinlocker]</span>,:"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:12
+#: panda-items/signin-locker/boot.php:47 panda-items/signin-locker/boot.php:58
+#: plugin/admin/boot.php:855 plugin/admin/pages/help/optinpanda.php:28
+msgid "Sign-In Locker"
+msgstr "Замок авторизации"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:17
+#, php-format
+msgid ""
+"Sign-In Locker works the same way as the <a href=\"%s\">Social Locker</a> "
+"but instead of liking/sharing it asks the user to sign in through social "
+"networks. Concurrently it can perform some social actions."
+msgstr ""
+"Замок авторизации работает точно так же, как <a href=\"%s\">Социальный "
+"замок</a>, но вместо лайков он просит пользователя авторизоваться через "
+"социальные сети, одновременно он может выполнить дополнительные действия."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:23
+#, php-format
+msgid ""
+"Sign-In Locker works the same way as the <a href=\"%s\">Email Locker</a> but "
+"instead of entering an email it asks the user to sign in through social "
+"networks. Concurrently it can perform some social actions."
+msgstr ""
+"Замок авторизации работает точно так же, как <a href=\"%s\">Email замок</a>, "
+"но вместо ввода электронной почты он просит пользователя авторизоваться "
+"через социальные сети, одновременно он может выполнить дополнительные "
+"действия."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:28
+msgid "What can you do with the Sign-In Locker"
+msgstr "Что вы можете сделать, используя \"Замок авторизации\""
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:31
+msgid ""
+"When the user signs in, the social network grants access to the user's "
+"contact data and allow additionally perform the following actions:"
+msgstr ""
+"Когда пользователь авторизуется в социальной сети, та предоставляет плагину "
+"контактные данные авторизованного пользователя, c которыми можно проводить "
+"следующие манипуляции:"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:34
+msgid "Register the user on our website (create an account)"
+msgstr "Регистрирует пользователя на вашем сайте (создает аккаунт)"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:36
+#, php-format
+msgid ""
+"Subscribe the user to your mailing list (<a href=\"%s\" target=\"_blank"
+"\">Opt-In Panda</a> required)"
+msgstr ""
+"Добавляет пользователя в базу сервисов email рассылок (необходимо <a href="
+"\"%s\" target=\"_blank\">Opt-In Panda</a>)"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:38
+msgid "Subscribe the user to your mailing list."
+msgstr "Подписывает пользователя на вашу базу email рассылок"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:41
+#, php-format
+msgid ""
+"Publish a tweet from behalf of the user (<a href=\"%s\" target=\"_blank"
+"\">Social Locker</a> required)"
+msgstr ""
+"Публикует короткое сообщение на страничке пользователя в твиттер (необходимо "
+"<a href=\"%s\" target=\"_blank\">Социальный замок(авторизации)</a>)"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:42
+#, php-format
+msgid ""
+"Subscribe the user to your account on Twitter (<a href=\"%s\" target=\"_blank"
+"\">Social Locker</a> required)"
+msgstr ""
+"Подписывает пользователя на ваш аккаунт в Твиттер (необходимо <a href=\"%s\" "
+"target=\"_blank\">Социальный замок(авторизации)</a>)"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:43
+#, php-format
+msgid ""
+"Subscribe the user to your account on LinkedIn (<a href=\"%s\" target="
+"\"_blank\">Social Locker</a> required)"
+msgstr ""
+"Подписывает пользователя на ваш аккаунт в LinkedIn (необходимо <a href=\"%s"
+"\" target=\"_blank\">Социальный замок(авторизации)</a>)"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:44
+#, php-format
+msgid ""
+"Subscribe the user to your Youtube channel (<a href=\"%s\" target=\"_blank"
+"\">Social Locker</a> required)"
+msgstr ""
+"Подписывает пользователя на ваш канал в Youtube (необходимо <a href=\"%s\" "
+"target=\"_blank\">Социальный замок(авторизации)</a>)"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:46
+msgid "Publish a tweet from behalf of the user"
+msgstr "Публикует короткое сообщение на стене пользователя в Twitter"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:47
+msgid ""
+"Subscribe the user to your account on Twitter (make the user a follower)"
+msgstr ""
+"Подписывает пользователя на ваш аккаунт в Twitter (определяет пользователя "
+"подписчиком)"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:48
+msgid ""
+"Subscribe the user to your account on LinkedIn (make the user a follower)"
+msgstr ""
+"Подписывает пользователя на ваш аккаунт в LinkedIn (определяет пользователя "
+"подписчиком)"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:49
+msgid "Subscribe the user to your Youtube channel"
+msgstr "Подписывает пользователя на ваш канал в Youtube"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:52
+msgid "Know your audience"
+msgstr "Знайте свою аудиторию"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:54
+msgid ""
+"Except the user's contact data, the Sign-In Locker also receives some "
+"personal data (name, profile url)."
+msgstr ""
+"Кроме контактных данных пользователя \"Замок авторизации\" также получает "
+"некоторые личные данные (имя, URL профиля)."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:56
+msgid ""
+"That allows you to know better your audinece and understand who is these "
+"people who visits your website. Also you can go and engage with them "
+"personally on their social pages on Facebook, Twitter, Google or LinkedIn."
+msgstr ""
+"Эти возможности позволят вам лучше узнать свою аудиторию и понять, что за "
+"люди посещают ваш сайт. Кроме того, вы сможете лично связаться с ними в "
+"социальных сетях Facebook, Twitter, Google или LinkedIn."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:60
+msgid "Comparing Sign-In Locker and Social Locker"
+msgstr "Сравнение Замка авторизации и Социального замка"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:63
+msgid ""
+"Although the Sign-In Locker brings more benefits per unlock, it has more "
+"lower conversion than Social Locker. Please check out the table below to "
+"learn more:"
+msgstr ""
+"Хотя \"Замок авторизации\" приносит больше пользы за открытие, он имеет "
+"более низкую конверсию, чем Социальный замок. Пожалуйста, ознакомьтесь с "
+"приведенной ниже таблицей сравнения двух замков:"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:69
+#: panda-items/signin-locker/admin/help/what-is-it.php:104
+msgid "Paramters"
+msgstr "Параметры"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:70
+#: panda-items/signin-locker/admin/help/what-is-it.php:105
+msgid "Sing-In Locker"
+msgstr "Замок авторизации"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:71
+msgid "Social Locker"
+msgstr "Социальный замок"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:76
+#: panda-items/signin-locker/admin/help/what-is-it.php:111
+msgid "Benefits"
+msgstr "Выгода"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:77
+#: panda-items/signin-locker/admin/help/what-is-it.php:112
+msgid ""
+"More benefits per unlock. Can be configured to execute several actions per "
+"unlock."
+msgstr ""
+"Больше выгоды за открытие замка. Может быть настроен на несколько действий "
+"за одно открытие."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:78
+msgid "Only one action has to be perfomed to unlock the content."
+msgstr ""
+"Будет выполнено только одно действие (лайк, поделиться или подписаться) "
+"после открытия замка."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:82
+#: panda-items/signin-locker/admin/help/what-is-it.php:117
+msgid ""
+"More lower conversion due to the locker asks the user to authorize your "
+"social app and grant extra permissions."
+msgstr ""
+"Более низкая конверсия из-за того, что замок запрашивает права пользователя "
+"при авторизации в вашем приложении."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:83
+msgid ""
+"Extremely high conversion which may reach up to 50%. All what the user has "
+"to make is to click on the social button."
+msgstr ""
+"Чрезвычайно высокая конверсия, которая может доходить до 50%. Все, что "
+"пользователь должен сделать, это нажать на социальную кнопку."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:86
+#: panda-items/signin-locker/admin/help/what-is-it.php:121
+msgid "Content"
+msgstr "Контент"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:87
+#: panda-items/signin-locker/admin/help/what-is-it.php:122
+msgid ""
+"As asks the user to authorize your social app to read one's personal data, "
+"the content you provide should have more value."
+msgstr ""
+"Просит пользователя авторизоваться в вашем приложении и предоставить личные "
+"данные, ваш контент должен иметь высокую ценность."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:88
+msgid "You can lock practically any content. Giving a like is not hard."
+msgstr "Вы можете заблокировать практически любой контент."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:95
+msgid "Comparing Sign-In Locker and Email Locker"
+msgstr "Сравнение Замка авторизации и Социального замка"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:98
+msgid ""
+"Although the Sign-In Locker brings more benefits per unlock, it has more "
+"lower conversion than Email Locker. Please check out the table below to "
+"learn more:"
+msgstr ""
+"Хотя \"Замок авторизации\" приносит больше пользы за открытие, он имеет "
+"более низкую конверсию, чем Email замок. Пожалуйста, ознакомьтесь с "
+"приведенной ниже таблицей сравнения двух замков:"
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:113
+#, fuzzy
+msgid "The user has to opt-in only to unlock the content."
+msgstr ""
+"Пожалуйста, поддержите нас, нажмите на одну из социальных кнопок ниже, чтобы "
+"получить доступ к заблокированному контенту."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:118
+#, php-format
+msgid "High conversion which may reach up to %s."
+msgstr "Высокая конверсия, которая может достигать до %s."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:123
+msgid "You can lock practically any content."
+msgstr "Вы можете заблокировать практически любой контент."
+
+#: panda-items/signin-locker/admin/help/what-is-it.php:131
+msgid "Learn how to configure and use Sign-In Locker"
+msgstr "Нажмите сюда, чтобы узнать как использовать \"Замок авторизации\""
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:59
+msgid "Connect Options"
+msgstr "Настройки кнопок авторизации"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:85
+msgid "How to setup"
+msgstr "Как использовать?"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:85
+msgid "Select social networks which will be available to sign in."
+msgstr "Выберите социальные сети, которые будут доступны для активации."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:85
+msgid ""
+"For each social network, select actions which have to be performed to sign "
+"in."
+msgstr ""
+"Для каждой социальной сети выберите действия, которые будут выполнены после "
+"авторизации в соц. сети."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:85
+msgid "Configure each selected action by clicking on its title."
+msgstr ""
+"Настройте каждое выбранное вами действие индивидуально, просто нажав на него."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:102
+msgid "Action: Save Email"
+msgstr "Дейстие: Сохранить Email"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:102
+msgid ""
+"This action retrieves an email and some other personal data of the user and "
+"saves it in the database."
+msgstr ""
+"Это действие получает электронную почту и некоторые другие личные данные "
+"пользователя и сохраняет их в базе данных."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:117
+msgid "Action: Subscribe"
+msgstr "Действие: Синхронизация с сервисами рассылки"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:117
+msgid ""
+"This action allows to subscribe the user to the specified mailing list when "
+"one clicks on the Sign In button."
+msgstr ""
+"Это действие позволяет автоматически добавить пользователя в выбранный "
+"сервис email рассылок. Действие срабатывает после нажатия на кнопку "
+"авторизации."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:180
+msgid "Require Name"
+msgstr "Имя обязательно"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:181
+msgid ""
+"If On, requires to specify the name to unlock (only for the Email Form)."
+msgstr ""
+"Если Вкл, пользователь обязательно должен ввести свое имя (только для email "
+"замка)."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:274
+msgid "Before Form"
+msgstr "До формы"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:275
+msgid "The text before the form."
+msgstr "Текст перед формой"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:276
+msgid "Cannot sign in via social networks? Enter your email manually."
+msgstr ""
+"Не удается авторизоваться через социальные сети? Введите адрес электронной "
+"почты вручную."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:282
+msgid "Buttton Text"
+msgstr "Текст кнопки"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:283
+msgid "The text on the button."
+msgstr "Текст на кнопке."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:284
+msgid "sign in to unlock"
+msgstr "авторизуйтесь, чтобы разблокировать"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:290
+msgid "After Buttton"
+msgstr "Текст после кнопки"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:291
+msgid "The text below the button. Guarantee something."
+msgstr ""
+"Текст, который находится ниже кнопки подписаться, представляет собой "
+"гарантию от спама."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:292
+#, php-format
+msgid "Your email address is %s safe from spam!"
+msgstr "Ваш email адрес на %s защищен от спама."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:327
+msgid "Action: Create Account"
+msgstr "Действие: Создать аккаунт"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:327
+msgid ""
+"This action registers the user on your website (the password will be "
+"generated randomly)."
+msgstr ""
+"Это действие регистрирует пользователя на вашем сайте (пароль будет "
+"сгенерирован случайным образом)."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:337
+msgid "Manual"
+msgstr "Ручной"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:339
+msgid ""
+"The account will be created but the user will not be logged in. The user "
+"will have to log in manually by using the login details sent via email. The "
+"locked content will get available instantly after clicking on the Sign-In "
+"buttons."
+msgstr ""
+"Учетная запись будет создана, но пользователь не будет авторизован в "
+"системе. Пользователь должен будет войти в систему вручную, используя "
+"регистрационные данные, которые были отправлены по электронной почте. "
+"Заблокированный контент будет доступен мгновенно после нажатия кнопки "
+"авторизации."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:342
+msgid "Login Mode"
+msgstr "Режимы:"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:365
+msgid "Twitter Action: Follow"
+msgstr "Действие Twitter: Подписаться"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:365
+msgid ""
+"This action makes the user following you on Twitter after clicking the Sign "
+"In button."
+msgstr ""
+"Это действие подписывает пользователя на вашу страничку в Twitter после "
+"нажатия на кнопку авторизации."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:369
+msgid "User to follow"
+msgstr "Ваше имя в Twitter"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:370
+msgid ""
+"Set a user screen name to follow (for example, <a href=\"http://twitter.com/"
+"byonepress\" target=\"_blank\">byonepress</a>)"
+msgstr ""
+"Впишите в поле свое имя в Twitter (например, <a href=\"http://twitter.com/"
+"byonepress\" target=\"_blank\">byonepress</a>)"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:376
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:377
+msgid ""
+"If On, the follower will get notifications about new tweets (usually via "
+"sms)."
+msgstr ""
+"Если Вкл, подписчик будет получать уведомления о новых твитах (по SMS)."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:393
+msgid "Twitter Action: Tweet"
+msgstr "Действие Twitter: Сообщение"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:393
+msgid ""
+"Sends the specified tweet below from behalf of the user after signing in."
+msgstr ""
+"Отправляет указанный твит ниже от имени пользователя после нажатия на кнопку "
+"авторизации."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:397
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:641
+msgid "Tweet"
+msgstr "Сообщение"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:398
+msgid "Type a message to tweet. It may include any URL."
+msgstr ""
+"Введите сообщение, которое будет опубликовано на стене пользователя. Оно "
+"может включать любые URL-адреса."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:413
+msgid "Google Action: Subscribe To Youtube Channel"
+msgstr "Действие Google: Подписаться на канал в Youtube"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:413
+msgid "This action subscribers the user to the specified Youtube channel."
+msgstr "Это действие подписывает пользователя на указанный канал в YouTube."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:417
+msgid "Youtube Channel ID"
+msgstr "ID канала"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:418
+msgid ""
+"Set a channel ID to subscribe (for example, <a href=\"http://www.youtube.com/"
+"channel/UCANLZYMidaCbLQFWXBC95Jg\" target=\"_blank"
+"\">UCANLZYMidaCbLQFWXBC95Jg</a>)."
+msgstr ""
+"Установите ID канала на Youtube (пример, <a href=\"http://www.youtube.com/"
+"channel/UCANLZYMidaCbLQFWXBC95Jg\" target=\"_blank"
+"\">UCANLZYMidaCbLQFWXBC95Jg</a>)."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:495
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:521
+msgid "How to use"
+msgstr "Как использовать?"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:500
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"button\" target=\"_blank\">See emails</a> of users "
+"who already signed-up or <a href=\"%s\" class=\"button\" target=\"_blank"
+"\">export emails</a> in the CSV format."
+msgstr ""
+"<a href=\"%s\" class=\"button\" target=\"_blank\">Показать email адреса</a> "
+"авторизованных пользователей <a href=\"%s\" class=\"button\" target=\"_blank"
+"\">экспортировать email адреса </a> в формате CSV."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:505
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:526
+#, php-format
+msgid ""
+"Install the plugin <a href=\"%s\" target=\"_blank\">Opt-In Panda</a> to "
+"subscribe automatically all the signed-up users to your mailing list. "
+"Supports most of services and plugins: Aweber, MailChimp, GetResponse, "
+"MyMail, MailPoet, K-news and more."
+msgstr ""
+"Установите плагин <a href=\"%s\" target=\"_blank\">Opt-In Panda</a> для "
+"автоматического добавления email адресов в ваши сервисы сбора подписчиков. "
+"Поддерживает большинство сервисов и плагинов: Aweber, MailChimp, "
+"GetResponse, MyMail, MailPoet, K-news и т.д."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:541
+msgid "New User Role"
+msgstr "Роль пользователя"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:546
+#, php-format
+msgid ""
+"All new users will be assigned to the role <strong>%s</strong> (<a href=\"%s"
+"\" target=\"_blank\">change</a>)."
+msgstr ""
+"Всем новым пользователям присваивается роль <strong>%s</strong> (<a href=\"%s"
+"\" target=\"_blank\">изменить</a>)."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:561
+msgid "Welcome E-mail"
+msgstr "Оповещение по email"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:566
+msgid ""
+"By default new users receive the standard wordpress welcome message. You can "
+"change it if you want.<br /><a href=\"https://wordpress.org/plugins/search."
+"php?q=Welcome+Email\" target=\"_blank\">Click here</a> to select a free "
+"plugin to customize the welcome email."
+msgstr ""
+"По умолчанию новые пользователи получают стандартное email приветствие. Вы "
+"можете изменить его, если хотите.<br /><a href=\"https://wordpress.org/"
+"plugins/search.php?q=Welcome+Email\" target=\"_blank\">Нажмите тут</a>, "
+"чтобы настроить текст email приветствия."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:585
+msgid "The confirmation email to send:"
+msgstr "Письмо подтверждения отправлено:"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:608
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:626
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:652
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:674
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:694
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:713
+msgid "Save Email"
+msgstr "Сохранить Email"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:612
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:630
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:656
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:678
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:698
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:717
+msgid "Subscribe"
+msgstr "Синхронизация"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:616
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:634
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:660
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:682
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:702
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:721
+msgid "Create Account"
+msgstr "Создать аккаунт"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:621
+#, fuzzy
+msgid "Twitter"
+msgstr "Цвет Twitter"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:637
+msgid "Follow"
+msgstr "Подписаться"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:663
+msgid "Subscribe (YT)"
+msgstr "Подписаться(YTB)"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:708
+msgid "Email Form"
+msgstr "Email форма"
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:736
+#, php-format
+msgid ""
+"To enable this action, please install the plugin Opt-In Panda which provides "
+"subscription features. <a href=\"%s\" target=\"_blank\">Click here to learn "
+"more</a>."
+msgstr ""
+"Чтобы разблокировать действие, пожалуйста, установите плагин Optin Panda. <a "
+"href=\"%s\" target=\"_blank\">Нажмите сюда</a>, чтобы узнать подробнее."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:758
+#, php-format
+msgid ""
+"To enable this action, please install the Social Locker plugin which "
+"provides social features. <a href=\"%s\" target=\"_blank\">Click here to "
+"learn more</a>."
+msgstr ""
+"Чтобы разблокировать действие, пожалуйста, установите плагин Социальный "
+"замок, который предоставляет дополнительные функции для этой кнопки. <a href="
+"\"%s\" target=\"_blank\">Нажмите сюда</a>, чтобы узнать подробнее."
+
+#: panda-items/signin-locker/admin/metaboxes/connect-options.php:910
+#, php-format
+msgid ""
+"Please set the Key & Secret of your Twitter App or select the default app. "
+"Please <a href=\"%s\" target=\"_blank\">click here</a> to learn more."
+msgstr ""
+"Пожалуйста установите ключ и секретный код вашего приложения в Twitter или "
+"выберите приложение по умолчанию. Пожалуйста, <a href=\"%s\" target=\"_blank"
+"\">нажмите здесь,</a> чтобы узнать больше."
+
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:84
+#, php-format
+msgid "You Use Only %s of Social Locker!"
+msgstr "Вы используете плагин всего на %s!"
+
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:99
+#, fuzzy
+msgid "More Sign-In Options (+2)"
+msgstr "Больше кнопок (+8)"
+
+#: panda-items/signin-locker/admin/metaboxes/more-features.php:100
+msgid "More Beautiful Themes (+2)"
+msgstr "Дополнительные темы (+2)"
+
+#: panda-items/signin-locker/admin/stats/channels.php:31
+#: panda-items/signin-locker/admin/stats/channels.php:76
+msgid "Via Twitter"
+msgstr "в Twitter"
+
+#: panda-items/signin-locker/admin/stats/channels.php:46
+#: panda-items/signin-locker/admin/stats/channels.php:90
+msgid "Via Vkontakte"
+msgstr "Через Вконтакте"
+
+#: panda-items/signin-locker/admin/stats/profits.php:16
+msgid "Unlocks"
+msgstr "Открыто"
+
+#: panda-items/signin-locker/admin/stats/profits.php:26
+#: panda-items/signin-locker/admin/stats/profits.php:109
+msgid "Emails"
+msgstr "email адресов"
+
+#: panda-items/signin-locker/admin/stats/profits.php:33
+#: panda-items/signin-locker/admin/stats/profits.php:115
+msgid "Accounts"
+msgstr "Аккаунты"
+
+#: panda-items/signin-locker/admin/stats/profits.php:34
+msgid "The number of new accounts created for visitors."
+msgstr "Количество новых аккаунтов, созданных пользователями."
+
+#: panda-items/signin-locker/admin/stats/profits.php:42
+#: panda-items/signin-locker/admin/stats/profits.php:126
+msgid "Twitter Followers"
+msgstr "Twitter подписаться"
+
+#: panda-items/signin-locker/admin/stats/profits.php:43
+#: panda-items/signin-locker/admin/stats/profits.php:64
+msgid ""
+"The number of new followers attracted via the locker. If the user was a "
+"follower before, this user will not be counted."
+msgstr ""
+"Количество новых подписчиков, полученных через Замок авторизации. Если "
+"пользователь ранее был подписан на вас, эти данные не будут учитываться в "
+"статистике."
+
+#: panda-items/signin-locker/admin/stats/profits.php:49
+msgid "Tweets"
+msgstr "Твиты"
+
+#: panda-items/signin-locker/admin/stats/profits.php:50
+msgid "The number of new tweets posted via the locker."
+msgstr "Количество твитов, сделанных с помощью Замка авторизации."
+
+#: panda-items/signin-locker/admin/stats/profits.php:56
+#: panda-items/signin-locker/admin/stats/profits.php:130
+msgid "Youtube Subscribers"
+msgstr "YouTube подписаться"
+
+#: panda-items/signin-locker/admin/stats/profits.php:57
+msgid ""
+"The number of new subscribers attracted via the locker. If the user was a "
+"subscribers before, this user will not be counted."
+msgstr ""
+"Количество новых подписчиков, полученных с помощью Замка авторизации. Если "
+"пользователь был ранее подписан, то эти данные не будет учитываться."
+
+#: panda-items/signin-locker/admin/stats/profits.php:63
+#: panda-items/signin-locker/admin/stats/profits.php:134
+msgid "LinkedIn Followers"
+msgstr "LinkedIn подписаться"
+
+#: panda-items/signin-locker/admin/stats/profits.php:122
+msgid "Twitter Tweets"
+msgstr "Твиты"
+
+#: panda-items/signin-locker/boot.php:49
+msgid ""
+"<p>Locks the content until the user signs in through social networks.</"
+"p><p>You can set up various actions to be performed to sign in (e.g. "
+"subscribe, follow, share).</p>"
+msgstr ""
+"Вы можете настроить различные социальные действия, которые необходимо "
+"выполнить после авторизации в соц. сети (например, подписаться, поделиться)."
+
+#: panda-items/signin-locker/boot.php:60
+msgid ""
+"<p>Locks the content until the user signs in through social networks.</"
+"p><p>You can set up various social actions to be performed to sign in (e.g. "
+"subscribe, follow, share).</p>"
+msgstr ""
+"Вы можете настроить различные социальные действия, которые необходимо "
+"выполнить после авторизации в соц. сети (например, подписаться, поделиться)."
+
+#: plugin/admin/activation.php:10
+msgid "Learn how to use the plugin <i class=\"fa fa-lightbulb-o\"></i>"
+msgstr "Узнайте, как использовать плагин <i class=\"fa fa-lightbulb-o\"></i>"
+
+#: plugin/admin/activation.php:65 plugin/admin/activation.php:76
+msgid ""
+"Please, activate the plugin to get started. Enter a key \n"
+"                                    you received with the plugin into the "
+"form below."
+msgstr ""
+"Пожалуйста, активируйте плагин, чтобы приступить к работе. Введите ключ, "
+"который вы получили, в поле ниже. Не знаете где ключ? <a href=\"#\" id="
+"\"open-faq\">Нажмите здесь</a>."
+
+#: plugin/admin/activation.php:87
+msgid ""
+"Public License is a GPLv2 compatible license. \n"
+"                                    It allows you to change this version of "
+"the plugin and to\n"
+"                                    use the plugin free. Please remember "
+"this license \n"
+"                                    covers only free edition of the plugin. "
+"Premium versions are \n"
+"                                    distributed with other type of a license."
+msgstr ""
+"Public License это GPLv2-совместимая лицензия, которая позволяет изменять и "
+"использовать эту версию плагина бесплатно. Пожалуйста, имейте в виду, что "
+"эта лицензия относится только к бесплатной редакции плагина. Премиум версии "
+"плагина распространяются в рамках другой лицензии."
+
+#: plugin/admin/boot.php:42 plugin/admin/boot.php:149 plugin/admin/boot.php:438
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: plugin/admin/boot.php:43
+msgid "Please, enter your login in JustClick"
+msgstr "Пожалуйста, введите ваш логин в JustClick"
+
+#: plugin/admin/boot.php:48 plugin/admin/boot.php:103 plugin/admin/boot.php:126
+msgid "API key"
+msgstr "API ключ"
+
+#: plugin/admin/boot.php:50 plugin/admin/boot.php:74 plugin/admin/boot.php:82
+#: plugin/admin/boot.php:105 plugin/admin/boot.php:128
+#: plugin/admin/boot.php:175 plugin/admin/boot.php:248
+#: plugin/admin/boot.php:444 plugin/admin/boot.php:466
+#: plugin/admin/boot.php:494 plugin/admin/boot.php:514
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Get API Key</a>"
+msgstr ""
+"<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Получить API "
+"ключ</a>"
+
+#: plugin/admin/boot.php:52
+msgid "Please, enter your api key in JustClick"
+msgstr "Пожалуйста, введите ваш api ключ в JustClick"
+
+#: plugin/admin/boot.php:71
+msgid "ID"
+msgstr ""
+
+#: plugin/admin/boot.php:72
+msgid "Please, enter your REST API ID in Sendpulse"
+msgstr "Пожалуйста, введите ваш REST API ID in Sendpulse"
+
+#: plugin/admin/boot.php:80
+msgid "Secret:"
+msgstr "Секрет:"
+
+#: plugin/admin/boot.php:84
+msgid "Please, enter your REST API Secret in Sendpulse"
+msgstr "Пожалуйста, введите ваш REST API Secret в Sendpuls"
+
+#: plugin/admin/boot.php:107 plugin/admin/boot.php:130
+msgid "Please enter your api key in unisender"
+msgstr "Пожалуйста, введите ваш api ключ в сервисе Unisender."
+
+#: plugin/admin/boot.php:150
+msgid "Please, enter your username in PechkinMail Account"
+msgstr "Пожалуйста, введите ваш логин в PechkinMail"
+
+#: plugin/admin/boot.php:155
+msgid "Password"
+msgstr "Пароль"
+
+#: plugin/admin/boot.php:156
+msgid "Please, enter your password PechkinMail Account"
+msgstr "Пожалуйста, введите ваш пароль в PechkinMail"
+
+#: plugin/admin/boot.php:176 plugin/admin/boot.php:247
+#: plugin/admin/boot.php:385 plugin/admin/boot.php:412
+#: plugin/admin/boot.php:445 plugin/admin/boot.php:465
+#: plugin/admin/boot.php:493 plugin/admin/boot.php:515
+msgid "API Key"
+msgstr "API ключ"
+
+#: plugin/admin/boot.php:177
+msgid "The API key of your MailChimp account."
+msgstr "API ключ вашего аккаунта в MailChimp."
+
+#: plugin/admin/boot.php:183
+msgid "Send \"Welcome\" Email"
+msgstr "Отправить письмо \"Приветствия\""
+
+#: plugin/admin/boot.php:185
+msgid ""
+"Sends the Welcome Email configured in your MailChimp account after "
+"subscription (works only if the Single Opt-In set)."
+msgstr ""
+"Посылает письмо \"Приветствие\" сконфигурированное в вашей учетной записи "
+"MailChimp после подписки (работает только если использует замок авторизации)."
+
+#: plugin/admin/boot.php:210
+msgid "Authorization Code"
+msgstr "Код авторизации"
+
+#: plugin/admin/boot.php:211
+msgid ""
+"The authorization code you will see after log in to your Aweber account."
+msgstr "Код авторизации вы увидите после входа в ваш аккаунт Aweber."
+
+#: plugin/admin/boot.php:249
+msgid "The API key of your GetResponse account."
+msgstr "API ключ вашего аккаунта в GetResponse."
+
+#: plugin/admin/boot.php:273 plugin/admin/boot.php:298
+#: plugin/admin/boot.php:365
+msgid "Redirect To Locker"
+msgstr "Перенаправление к замку"
+
+#: plugin/admin/boot.php:274
+#, php-format
+msgid ""
+"Set On to redirect the user after the email confirmation to the page where "
+"the locker located.<br />If Off, the MyMail will redirect the user to the "
+"page specified in the option <a href=\"%s\" target=\"_blank\">Newsletter "
+"Homepage</a>."
+msgstr ""
+"Если Вкл, пользователь будет перенаправлен на страницу, где расположен "
+"замок, после того как подтвердит подписку по электронной почте. <br>Если "
+"Выкл, MyMaill будет перенаправлять пользователя на страницу, указанную в "
+"параметре <a href=\"%s\" target=\"_blank\">Домашняя страница новостной "
+"рассылки</a>."
+
+#: plugin/admin/boot.php:299
+#, php-format
+msgid ""
+"Set On to redirect the user after the email confirmation to the page where "
+"the locker located.<br />If Off, the Mailster will redirect the user to the "
+"page specified in the option <a href=\"%s\" target=\"_blank\">Newsletter "
+"Homepage</a>."
+msgstr ""
+"Если Вкл, пользователь будет перенаправлен на страницу, где расположен "
+"замок, после того как подтвердит подписку по электронной почте. <br>Если "
+"Выкл, Mailster будет перенаправлять пользователя на страницу, указанную в "
+"параметре <a href=\"%s\" target=\"_blank\">Домашняя страница новостной "
+"рассылки</a>."
+
+#: plugin/admin/boot.php:333
+msgid "Customer ID"
+msgstr "ID клиента"
+
+#: plugin/admin/boot.php:334
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Get ID & Token</a>"
+msgstr ""
+"<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Получить ID и "
+"Токен</a>"
+
+#: plugin/admin/boot.php:335
+msgid "The customer ID of your Acumbamail account."
+msgstr "Идентификатор клиента вашего аккаунта в Acumbamail."
+
+#: plugin/admin/boot.php:340
+msgid "API Token"
+msgstr "API токен"
+
+#: plugin/admin/boot.php:341
+msgid "The API token of your Acumbamail account."
+msgstr "API токен вашего аккаунта в Acumbamail."
+
+#: plugin/admin/boot.php:366
+msgid ""
+"Set On to redirect the user after the email confirmation to the page where "
+"the locker located.<br />If Off, the K-news will redirect the user to the "
+"home page."
+msgstr ""
+"Если Вкл, пользователь будет перенаправлен на страницу где установлен замок, "
+"после того, как подтвердит подписку по электронной почте.<br>Если Выкл, K-"
+"news будет перенаправлять пользователя на главную страницу."
+
+#: plugin/admin/boot.php:386
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Get API Keys</a>"
+msgstr ""
+"<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Получить API "
+"ключ</a>"
+
+#: plugin/admin/boot.php:387
+msgid "The API Key of your FreshMail account."
+msgstr "API ключ вашего аккаунта в FreshMail."
+
+#: plugin/admin/boot.php:392
+msgid "API Secret"
+msgstr "Секретный ключ API"
+
+#: plugin/admin/boot.php:393
+msgid "The API Sercret of your FreshMail account."
+msgstr "Секретный ключ API вашего аккаунта в FreshMail."
+
+#: plugin/admin/boot.php:413
+msgid "The API key of your Sendy application, available in Settings."
+msgstr "Ключ API Sendy приложения, доступный в настройках."
+
+#: plugin/admin/boot.php:418
+msgid "Installation"
+msgstr "Установка"
+
+#: plugin/admin/boot.php:419
+msgid ""
+"An URL for your Sendy installation, <strong>http://your_sendy_installation</"
+"strong>"
+msgstr ""
+"URL-адрес для установки Sendy, <strong>http://your_sendy_installation</"
+"strong>"
+
+#: plugin/admin/boot.php:439
+msgid "Enter your username on SmartEmailing. Usually it is a email."
+msgstr "Введите ваше имя пользователя на SmartEmailing. Обычно это email."
+
+#: plugin/admin/boot.php:446
+msgid "The API key of your SmartEmailing account."
+msgstr "API ключ вашего аккаунта в SmartEmailing."
+
+#: plugin/admin/boot.php:467
+msgid "The API Key (version 2.0) of your Sendinblue account."
+msgstr "Ключ API (версия 2.0) вашего счета Sendinblue."
+
+#: plugin/admin/boot.php:486
+msgid "API Url"
+msgstr "URL-адрес API"
+
+#: plugin/admin/boot.php:487
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Get API Url</a>"
+msgstr ""
+"<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Получить API "
+"ключ</a>"
+
+#: plugin/admin/boot.php:488
+msgid "The API Url of your ActiveCampaign account."
+msgstr "URL-адрес API вашего аккаунта в ActiveCampaign."
+
+#: plugin/admin/boot.php:495
+msgid "The API Key of your ActiveCampaign account."
+msgstr "API ключ вашего аккаунта в ActiveCampaign."
+
+#: plugin/admin/boot.php:516
+msgid ""
+"Your SendGrid API key. Grant <strong>Full Access</strong> for <strong>Mail "
+"Send</strong> and <strong>Marketing Campaigns</strong> in settings of your "
+"API key."
+msgstr ""
+"Ваш SendGrid ключ API. Разрешение <strong>полный доступ</ strong> для "
+"<strong>отправки почты</ strong> и <strong>маркетинговые кампании</ strong> "
+"в настройках вашего API ключа."
+
+#: plugin/admin/boot.php:535
+#, php-format
+msgid "<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Get Code</a>"
+msgstr ""
+"<a href=\"%s\" class=\"btn btn-default\" target=\"_blank\">Получить код</a>"
+
+#: plugin/admin/boot.php:536
+msgid "Activation Code"
+msgstr "Код активации"
+
+#: plugin/admin/boot.php:537
+msgid ""
+"The Activation Code from your SG Autorepondeur account (<i>Mon compte -> "
+"Autres Options -> Informations administratives</i>)."
+msgstr ""
+"Код активации от вашего SG Autorepondeur аккаунта (<i>Mon compte -> Autres "
+"Options -> Informations administratives</i>)."
+
+#: plugin/admin/boot.php:542
+msgid "Member ID"
+msgstr "ID пользователя"
+
+#: plugin/admin/boot.php:543
+msgid ""
+"The Memeber ID of your SG Autorepondeur account (<i>available on the home "
+"page below the SG logo, for example, 9059</i>)."
+msgstr ""
+"ID пользователя от вашего аккаунта в SG Autorepondeur (<i>можно найти на "
+"домашней странице ниже SG логотипа, например, 9059</i>)."
+
+#: plugin/admin/boot.php:569
+msgid "To connect your Aweber account:"
+msgstr "Чтобы подключить ваш аккуант в Aweber:"
+
+#: plugin/admin/boot.php:571
+msgid ""
+"<span>1.</span> <a href=\"https://auth.aweber.com/1.0/oauth/"
+"authorize_app/92c68137\" class=\"button\" target=\"_blank\">Click here</a> "
+"<span>to open the authorization page and log in.</span>"
+msgstr ""
+"<span>1.</span> <a href=\"https://auth.aweber.com/1.0/oauth/"
+"authorize_app/92c68137\" class=\"button\" target=\"_blank\">нажмите здесь</"
+"a>, <span>чтобы открыть страницу авторизации и войти</span>"
+
+#: plugin/admin/boot.php:572
+msgid ""
+"<span>2.</span> Copy and paste the authorization code in the field below."
+msgstr "<span>2.</span> скопируйте и вставьте код в поле ниже."
+
+#: plugin/admin/boot.php:583
+msgid "Your Aweber Account is connected."
+msgstr "Ваш Aweber аккаунт подключен."
+
+#: plugin/admin/boot.php:585
+msgid "<a href=\""
+msgstr ""
+
+#: plugin/admin/boot.php:610
+msgid ""
+"The MyMail plugin is not found on your website. Emails will not be saved."
+msgstr ""
+"Плагин MyMail не найден на вашем сайте. Email адреса не будут сохранены."
+
+#: plugin/admin/boot.php:621 plugin/admin/boot.php:655
+#: plugin/admin/boot.php:689 plugin/admin/boot.php:723
+msgid ""
+"You can set a list where the subscribers should be added in the settings of "
+"a particular locker."
+msgstr ""
+"Вы можете установить список, где будут сохранены адреса подписчиков в "
+"настройках конкретного замка."
+
+#: plugin/admin/boot.php:644
+msgid ""
+"The Mailster plugin is not found on your website. Emails will not be saved."
+msgstr ""
+"Плагин Mailster не найден на вашем сайте. Email адреса не будут сохранены."
+
+#: plugin/admin/boot.php:678
+msgid ""
+"The MailPoet plugin is not found on your website. Emails will not be saved."
+msgstr ""
+"Плагин MailPoet не найден на вашем сайте. Email адреса не будут сохранены."
+
+#: plugin/admin/boot.php:712
+msgid ""
+"The K-news plugin is not found on your website. Emails will not be saved."
+msgstr ""
+"Плагин K-news не найден на вашем сайте. Email адреса не будут сохранены."
+
+#: plugin/admin/boot.php:750
+msgid "Unable to connect to Aweber. The Authorization Code is empty."
+msgstr "Не удается подключиться к Aweber. Кода авторизации не существует."
+
+#: plugin/admin/boot.php:841 plugin/admin/boot.php:860
+msgid "What is it?"
+msgstr "Что это такое?"
+
+#: plugin/admin/boot.php:873
+msgid "Get service api settings"
+msgstr "Настройка сервисов"
+
+#: plugin/admin/boot.php:878 plugin/boot.php:185
+msgid "JustClick"
+msgstr ""
+
+#: plugin/admin/boot.php:882 plugin/boot.php:195
+msgid "Sendpulse"
+msgstr ""
+
+#: plugin/admin/boot.php:886 plugin/boot.php:215
+msgid "Unisender"
+msgstr ""
+
+#: plugin/admin/boot.php:890 plugin/boot.php:205
+msgid "Mailerlite"
+msgstr ""
+
+#: plugin/admin/boot.php:898
+msgid "Plugin: Opt-In Panda"
+msgstr "Плагин: Opt-In Panda"
+
+#: plugin/admin/boot.php:990 plugin/admin/pages/help/optinpanda.php:2
+#: plugin/admin/pages/license-manager.php:37
+msgid "Opt-In Panda"
+msgstr "Opt-In Panda"
+
+#: plugin/admin/boot.php:1037
+msgid ""
+"<p>Get more email subscribers the most organic way without tiresome popups.</"
+"p><p>Custom fields, export in CSV, content blurring, advanced options and "
+"more.</p>"
+msgstr ""
+"<p>Получите больше email подписчиков  без утомительных всплывающих окон.</"
+"p><p>Произвольные поля, экспорт подписчиков в CSV, размытие контента, "
+"дополнительные настройки и многое другое.</p>"
+
+#: plugin/admin/boot.php:1042
+msgid ""
+"<p>Helps to attract social traffic and improve spreading your content in "
+"social networks.</p><p>Also extends the Sign-In Locker by adding social "
+"actions you can set up to be performed.</p>"
+msgstr ""
+"<p>Помогает привлекать социальный трафик и улучшает распространение вашего "
+"продукта в социальных сетях.</p><p>В комплект входит замок авторизации.</p>"
+
+#: plugin/admin/boot.php:1082
+msgid "Groups"
+msgstr "Группы"
+
+#: plugin/admin/boot.php:1186
+msgid ""
+"<span>No groups available for the list selected. <a href=\"http://kb."
+"mailchimp.com/lists/groups/getting-started-with-groups\" target=\"_blank"
+"\">You can create them</a> in your MailChimp account.<span>"
+msgstr ""
+"<span>У вас нет доступных групп для выбранного списка рассылок. <a href="
+"\"http://kb.mailchimp.com/lists/groups/getting-started-with-groups\" target="
+"\"_blank\">Вы можете создать группу</a> в вашем аккаунте MailChimp.<span>"
+
+#: plugin/admin/boot.php:1204
+msgid "Optional. Select Groups to add subscribers."
+msgstr "Необязательно. Выберите группы для добавления подписчиков."
+
+#: plugin/admin/notices.php:30
+msgid "Collect more emails with the Opt-In Panda Premium!"
+msgstr "Соберите больше подписчиков с премиум версией Opt-In Panda!"
+
+#: plugin/admin/notices.php:32
+msgid "Try the premium version for 7 days for free!"
+msgstr "Попробуйте премиум версию плагина в течение 7 дней бесплатно!"
+
+#: plugin/admin/notices.php:35
+msgid ""
+"Custom fields, exporting of collected emails in CSV, social subscription, "
+"content blurring, 2 extra stunning themes, 8 advanced options, dedicated "
+"support and more."
+msgstr ""
+"Настраиваемые поля, экспорт собранных писем в CSV, подписка через социальные "
+"сети, размытие скрытого контента, 2 дополнительные потрясающие темы, 8 "
+"дополнительных опций, приоритетная поддержка и многое другое."
+
+#: plugin/admin/notices.php:64
+msgid "Activate Premium"
+msgstr "Активировать Премиум"
+
+#: plugin/admin/notices.php:69 plugin/admin/notices.php:95
+msgid "No, thanks, not now"
+msgstr "Нет, спасибо"
+
+#: plugin/admin/notices.php:90
+msgid "Learn More & Upgrade"
+msgstr "Узнать больше и обновится"
+
+#: plugin/admin/notices.php:354
+msgid "emails"
+msgstr "email адресов"
+
+#: plugin/admin/notices.php:360
+#, php-format
+msgid ""
+"Congrats! You collected more %s emails via <strong>Opt-In Panda</strong>."
+msgstr ""
+"Поздравляем! Вы собрали более %s подписчиков с помощью <strong>Opt-In Panda</"
+"strong>."
+
+#: plugin/admin/notices.php:362
+#, php-format
+msgid "Congrats! You gained more %s %s via <strong>Opt-In Panda</strong>."
+msgstr ""
+"Поздравляем! Вы получили более %s %s с помощью <strong>Opt-In Panda</strong>."
+
+#: plugin/admin/notices.php:370
+msgid "+"
+msgstr ""
+
+#: plugin/admin/notices.php:375
+msgid "!"
+msgstr ""
+
+#: plugin/admin/notices.php:383
+msgid ""
+"Please do us a BIG favor, give the plugin a 5-star rating on wordpress.org."
+msgstr "Пожалуйста, оставьте отзыв о работе нашего плагина на reformal.ru​"
+
+#: plugin/admin/notices.php:388
+msgid "Sure, you deserved it!"
+msgstr "Конечно вы это заслужили!"
+
+#: plugin/admin/notices.php:391
+msgid "I already did"
+msgstr "Я это уже сделал"
+
+#: plugin/admin/notices.php:394
+msgid "No, not good enough"
+msgstr "Нет, это плохой плагин"
+
+#: plugin/admin/notices.php:401
+#, php-format
+msgid ""
+"Want more %s? Try the <a href=\"%s\" target=\"_blank\">premium version</a>."
+msgstr ""
+"Хотите больше %s? Попробуйте <a href=\"%s\" target=\"_blank\">премиум "
+"версию</a>."
+
+#: plugin/admin/notices.php:445
+msgid "Invalid request type."
+msgstr "Неправильный запрос."
+
+#: plugin/admin/pages/help/optinpanda.php:4
+msgid ""
+"Opt-In Panda is a lead-generation plugin created to help you effectively "
+"attract new subscribers and easily build huge email lists."
+msgstr ""
+"Opt-In Panda - отличный генератор подписчиков(лидов), созданный, чтобы "
+"помочь вам эффективно привлекать новых клиентов и легко собирать подписную "
+"базу."
+
+#: plugin/admin/pages/help/optinpanda.php:6
+msgid "The plugin provides you with the following tools:"
+msgstr "Плагин предоставляет вам следующие инструменты подписки:"
+
+#: plugin/admin/pages/help/optinpanda.php:11
+msgid "Name"
+msgstr "Заголовок"
+
+#: plugin/admin/pages/help/optinpanda.php:20
+msgid ""
+"Designed to gather opt-ins. The user has to opt-in to unlock some value "
+"content (recommended to use for new users)."
+msgstr ""
+"Предназначен для сбора подписчиков. Пользователь должен ввести свои "
+"контактные данные и подтвердить их, чтобы разблокировать замок "
+"(рекомендуется использовать для новых пользователей)."
+
+#: plugin/admin/pages/help/optinpanda.php:31
+msgid ""
+"More advanced version of the Email Locker. Uses social buttons to retrieve "
+"emails and at the same time perform some extra social actions (e.g, "
+"tweeting)."
+msgstr ""
+"Более продвинутые версии email замков. Используется для получения email "
+"адресов из социальных сетей, также позволяет выполнять дополнительные "
+"социальные действия, в виде подписки на канал или ретвита и т.п."
+
+#: plugin/admin/pages/help/optinpanda.php:40
+msgid ""
+"The Email Locker usually has a better conversion than the Sign-In Locker."
+msgstr "У Email замка обычно лучше конверсия, чем у замка авторизации."
+
+#: plugin/admin/pages/help/optinpanda.php:44
+msgid "Click on the tool title to learn more."
+msgstr "Нажмите на название инструмента, чтобы узнать больше."
+
+#: plugin/admin/pages/premium.php:30
+msgid "Go Premium"
+msgstr "Получить премиум"
+
+#: plugin/admin/pages/premium.php:33
+msgid ""
+"<span class=\"factory-fontawesome-000\"><i class=\"fa fa-star-o\" style="
+"\"margin-right: 5px;\"></i>Opt-In Panda</span>"
+msgstr ""
+"<span class=\"factory-fontawesome-000\"><i class=\"fa fa-star-o\" style="
+"\"margin-right: 5px;\"></i>Opt-In Panda</span>"
+
+#: plugin/admin/pages/premium.php:118
+msgid "Try Premium Version For 7 Days For Free!"
+msgstr "Попробуйте премиум версию плагина в течение 7 дней бесплатно!"
+
+#: plugin/admin/pages/premium.php:120
+msgid "Upgrade Opt-In Panda To Premium!"
+msgstr "Обновите Opt-In Panda до премиум версии!"
+
+#: plugin/admin/pages/premium.php:125
+#, php-format
+msgid ""
+"The plugin you are using is a free version of the popular <a target=\"_blank"
+"\" href=\"%s\"> Opt-In Panda</a> plugin.\n"
+"                We offer you to try the premium version for 7 days "
+"absolutely for free. We are sure you will enjoy it!"
+msgstr ""
+"Это бесплатная версия популярного плагина <a target=\"_blank\" href=\"%s\"> "
+"Opt-In Panda</a>. \n"
+" Вы можете попробовать премиум возможности плагина в течении 7 дней "
+"абсолютно бесплатно. Мы уверены, вам понравиться!"
+
+#: plugin/admin/pages/premium.php:129
+msgid "Check out the table below to know about the premium features."
+msgstr ""
+"Взгляните на таблицу ниже, чтобы узнать о новых возможностях, которые вы "
+"получите в премиум версии плагина."
+
+#: plugin/admin/pages/premium.php:133
+#, php-format
+msgid ""
+"The plugin you are using is a free version of the popular <a target=\"_blank"
+"\" href=\"%s\"> Opt-In Panda plugin</a> sold on CodeCanyon."
+msgstr ""
+"Это бесплатная версия популярного плагина <a target=\"_blank\" href=\"%s\"> "
+"Opt-In Panda</a>, который продается на CodeCanyon."
+
+#: plugin/admin/pages/premium.php:134
+msgid "Check out the table below to know about all the premium features."
+msgstr ""
+"Взгляните на таблицу ниже, чтобы узнать о новых возможностях, которые вы "
+"получите в премиум версии плагина."
+
+#: plugin/admin/pages/premium.php:140
+msgid "Comparison of Free & Premium Versions"
+msgstr "Сравнение бесплатной и платной версии"
+
+#: plugin/admin/pages/premium.php:143
+msgid "Click on the dotted title to learn more about a given feature."
+msgstr ""
+"Справка: если нажать на подчеркнутый заголовок, вы сможете перейти к "
+"описанию этой возможности"
+
+#: plugin/admin/pages/premium.php:148
+msgid "Common Features"
+msgstr "Общие возможности"
+
+#: plugin/admin/pages/premium.php:149 plugin/admin/pages/premium.php:208
+#: plugin/admin/pages/premium.php:236 plugin/admin/pages/premium.php:265
+msgid "Free"
+msgstr "Бесплатная"
+
+#: plugin/admin/pages/premium.php:151 plugin/admin/pages/premium.php:210
+#: plugin/admin/pages/premium.php:238 plugin/admin/pages/premium.php:267
+msgid "Premium"
+msgstr "Премиум"
+
+#: plugin/admin/pages/premium.php:154
+msgid "Unlimited Lockers"
+msgstr "Нет лимита замков"
+
+#: plugin/admin/pages/premium.php:155 plugin/admin/pages/premium.php:156
+#: plugin/admin/pages/premium.php:160 plugin/admin/pages/premium.php:161
+#: plugin/admin/pages/premium.php:169 plugin/admin/pages/premium.php:175
+#: plugin/admin/pages/premium.php:184 plugin/admin/pages/premium.php:192
+#: plugin/admin/pages/premium.php:200 plugin/admin/pages/premium.php:214
+#: plugin/admin/pages/premium.php:215 plugin/admin/pages/premium.php:219
+#: plugin/admin/pages/premium.php:220 plugin/admin/pages/premium.php:228
+#: plugin/admin/pages/premium.php:242 plugin/admin/pages/premium.php:243
+#: plugin/admin/pages/premium.php:250 plugin/admin/pages/premium.php:257
+msgid "yes"
+msgstr "да"
+
+#: plugin/admin/pages/premium.php:159
+msgid "Single/Double Opt-In"
+msgstr "Одинарная проверка/Двойная проверка"
+
+#: plugin/admin/pages/premium.php:165
+msgid "Visibility Options"
+msgstr "Настройки отображения"
+
+#: plugin/admin/pages/premium.php:172
+msgid "Advanced Options"
+msgstr "Дополнительные настройки"
+
+#: plugin/admin/pages/premium.php:196
+msgid "Export Emails in CSV"
+msgstr "Экспорт подписчиков в CSV"
+
+#: plugin/admin/pages/premium.php:207
+msgid "Overlap Modes"
+msgstr "Режим наложения"
+
+#: plugin/admin/pages/premium.php:213
+msgid "Full"
+msgstr "На всю область"
+
+#: plugin/admin/pages/premium.php:218
+msgid "Transparency"
+msgstr "Прозрачность"
+
+#: plugin/admin/pages/premium.php:224
+msgid "Blurring"
+msgstr "Размытие"
+
+#: plugin/admin/pages/premium.php:235
+msgid "Themes"
+msgstr "Темы"
+
+#: plugin/admin/pages/premium.php:241
+msgid "Theme \"Great Attractor\""
+msgstr "Тема  \"Great Attractor\""
+
+#: plugin/admin/pages/premium.php:246
+msgid "Theme \"Friendly Giant\""
+msgstr "Тема  \"Friendly Giant\""
+
+#: plugin/admin/pages/premium.php:253
+msgid "Theme \"Dark Force\""
+msgstr "Тема \"Dark Force\""
+
+#: plugin/admin/pages/premium.php:264
+msgid "Services"
+msgstr "Сервисы"
+
+#: plugin/admin/pages/premium.php:271
+msgid "Updates"
+msgstr "Обновления"
+
+#: plugin/admin/pages/premium.php:272 plugin/admin/pages/premium.php:278
+msgid "not guaranteed"
+msgstr "не гарантировано"
+
+#: plugin/admin/pages/premium.php:273
+msgid "primary updates"
+msgstr "приоритетные обновления"
+
+#: plugin/admin/pages/premium.php:276
+msgid "Support"
+msgstr "Поддержка"
+
+#: plugin/admin/pages/premium.php:279
+msgid "dedicated support"
+msgstr "качественная поддержка"
+
+#: plugin/admin/pages/premium.php:289 plugin/admin/pages/premium.php:395
+msgid "Click Here To Activate Your Free Trial For 7 Days"
+msgstr "Нажмите сюда, чтобы бесплатно активировать премиум версию на 7 дней"
+
+#: plugin/admin/pages/premium.php:292 plugin/admin/pages/premium.php:398
+msgid "(instant activation by one click)"
+msgstr "(мгновенная активация одним щелчком мыши )"
+
+#: plugin/admin/pages/premium.php:301 plugin/admin/pages/premium.php:407
+msgid "Purchase Opt-In Panda Premium For $24 Only"
+msgstr "Купите Opt-In Panda премиум всего за 590 руб"
+
+#: plugin/admin/pages/premium.php:311 plugin/admin/pages/premium.php:417
+msgid "Or Buy The Opt-In Panda Right Now For $23 Only"
+msgstr "Или купите Opt-In Panda прямо сейчас за 590 руб"
+
+#: plugin/admin/pages/premium.php:318
+msgid "Set How, When and For Whom Your Lockers Appear"
+msgstr "Настройки: как, когда и для кого будет отображаться замок"
+
+#: plugin/admin/pages/premium.php:321
+msgid ""
+"Each website has its own unique audience. We know that a good business is an "
+"agile business. The premium version of Opt-In Panda provides 8 additional "
+"options that allow you to configure the lockers flexibly to meet your needs."
+msgstr ""
+"Конечно каждый сайт имеет свою собственную уникальную аудиторию. Мы знаем, "
+"что хороший бизнес - это гибкий бизнес. Премиум версия Opt-In Panda содержит "
+"8 дополнительных опций, которые позволят вам гибко настроить замки для вашей "
+"уникальной аудитории."
+
+#: plugin/admin/pages/premium.php:331
+msgid "Create Interest to Your Content via Overlay Effects"
+msgstr "Вызов интереса у пользователей к контенту с помощью эффектов наложения"
+
+#: plugin/admin/pages/premium.php:334
+msgid ""
+"It attracts tremendous attention and create huge interest to your locked "
+"content. If people see and understand what they will get after unlocking, "
+"they are more likely to leave their emails."
+msgstr ""
+"Привлекает много внимания и создает огромный интерес для скрытого "
+"содержимого. Если люди видят и понимают, что они могут получить после того, "
+"как откроют замок, они более лояльны к тому, чтобы подписаться."
+
+#: plugin/admin/pages/premium.php:342
+msgid "Unlimited Custom Fields To Fit Your Business Needs"
+msgstr ""
+"Неограниченное количество произвольных полей с учетом потребностей вашего "
+"бизнеса"
+
+#: plugin/admin/pages/premium.php:347
+msgid ""
+"Need to ask your visitors for a phone number or address? No problem! You can "
+"create custom textboxes (with/without input mask), dropdown lists, "
+"checkboxes and more."
+msgstr ""
+"Вам необходимо узнать телефон и адрес подписчиков? Произвольные поля помогут "
+"вам сконструировать гибкую форму подписки под вашу аудиторию и ваши "
+"потребности."
+
+#: plugin/admin/pages/premium.php:355
+msgid "Subscribe Visitors through Facebook, Twitter, Google or LinkedIn"
+msgstr ""
+"Получение подписчиков через Facebook, Twitter, Google, Вконтакте или LinkedIn"
+
+#: plugin/admin/pages/premium.php:360
+msgid ""
+"Except subscription via the classic opt-in form, the premium plugin also "
+"provides visitors an option to subscribe through social networks."
+msgstr ""
+"За исключением классических способов подписки премиум плагин предоставляет "
+"посетителям возможность подписаться через социальные сети."
+
+#: plugin/admin/pages/premium.php:367
+msgid ""
+"For each social button, you can configure extra actions which should be "
+"performed when the user clicks on the social button. For example, you can "
+"set up the locker to create an account for the user on your website."
+msgstr ""
+"Вы можете настроить несколько социальных и локальных действий, которые будут "
+"выполнены, когда пользователь нажмет кнопку авторизоваться в социальной "
+"сети. Например, можно настроить замок для создания учетной записи "
+"пользователя на вашем сайте."
+
+#: plugin/admin/pages/premium.php:376
+msgid "Updates Almost Every Week & Guaranteed Support Within 24h"
+msgstr ""
+"Плагин обновляется почти каждую неделю, гарантированная поддержка в течение "
+"24 часов."
+
+#: plugin/admin/pages/premium.php:379
+msgid ""
+"We release about 3-4 updates each month, adding new features and fixing "
+"bugs. The Free version does not guarantee that you will get all the major "
+"updates. If you upgrade to the Premium version, your copy of the plugin will "
+"be always up-to-date."
+msgstr ""
+"Мы выпускаем около 3-4 обновлений в месяц, добавляя новые возможности и "
+"исправляя ошибки. Бесплатная версия не гарантирует, что вы получите все "
+"основные обновления. Но если вы обновитесь до премиум версии, ваша копия "
+"плагина будет всегда актуальной."
+
+#: plugin/admin/pages/premium.php:382
+msgid ""
+"All of our plugins come with free support. We care about your plugin after "
+"purchase just as much as you do. We want to make your life easier and make "
+"you happy about choosing our plugins."
+msgstr ""
+"Для всех наших плагинов предоставляется бесплатная поддержка. Мы хотим "
+"сделать вашу жизнь проще и если у вас возникли какие-либо проблемы с "
+"установкой или эксплуатацией плагина, вы всегда можете обратиться к нам за "
+"помощью."
+
+#: plugin/admin/pages/premium.php:386
+msgid ""
+"Unfortunately we receive plenty of support requests every day and we cannot "
+"answer to all the users quickly. But for the users of the premium version "
+"(and the trial version), we guarantee to respond to every inquiry within 1 "
+"business day (typical response time is 3 hours)."
+msgstr ""
+"Мы получаем большое количество писем от наших клиентов и, к сожалению, не "
+"можем ответить всем сразу. Но для пользователей премиум версии (и пробной "
+"версии ), мы гарантируем, что ответим на каждый запрос в течение 1 рабочего "
+"дня ( типичное время отклика составляет 3 часа )."
+
+#: plugin/admin/pages/premium.php:426
+msgid ""
+"You can purchase the premium version at any time within your trial period or "
+"right now. After purchasing you will get a license key to unlock all the "
+"plugin features."
+msgstr ""
+"Вы можете купить премиум версию плагина в любой момент в течение вашего "
+"пробного периода. После покупки вы получите лицензионный ключ, при активации "
+"которого вы получите возможность использовать все функции плагина."
+
+#: plugin/admin/pages/premium.php:427
+#, php-format
+msgid ""
+"<strong>To purchase the Opt-In Panda</strong>, <a target=\"_blank\" href=\"%s"
+"\">click here</a> to visit the plugin page on CodeCanyon. Then click the "
+"\"Purchase\" button on the right sidebar."
+msgstr ""
+"Чтобы купить Opt-In Panda, перейдите на <a target=\"_blank\" href=\"%s"
+"\">страницу плагина</a> и нажмите на кнопку \"Купить\"."
+
+#: plugin/boot.php:26
+msgid "Emails of subscribers will be saved in the WP database."
+msgstr "Email адреса подписчиков будут сохранены в базе данных WP."
+
+#: plugin/boot.php:32
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: plugin/boot.php:33
+msgid "Adds subscribers to your MailChimp account."
+msgstr "Добавить подписчиков на ваш аккаунт в MailChimp."
+
+#: plugin/boot.php:40
+#, php-format
+msgid ""
+"Select one of merge tags in your MailChimp account to save the value from "
+"this field. <a href=\"%s\" target=\"_blank\">Learn more about Merge Tags</a>."
+msgstr ""
+"Выберите один из тегов слияния в вашем аккаунте MailChimp, чтобы сохранить "
+"значение из этого поля. <a href=\"%s\" target=\"_blank\">Подробнее о тегах "
+"слияния</a>."
+
+#: plugin/boot.php:44
+msgid "Aweber"
+msgstr "Aweber"
+
+#: plugin/boot.php:45
+msgid "Adds subscribers to your Aweber account."
+msgstr "Добавить подписчиков на ваш аккаунт в Aweber."
+
+#: plugin/boot.php:53
+msgid "GetResponse"
+msgstr "GetResponse"
+
+#: plugin/boot.php:54
+msgid "Adds subscribers to your GetResponse account."
+msgstr "Добавить подписчиков на ваш аккаунт в GetResponse."
+
+#: plugin/boot.php:62
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: plugin/boot.php:63
+msgid "Adds subscribers to the plugin MailPoet."
+msgstr "Добавить подписчиков на ваш аккаунт в MailPoet."
+
+#: plugin/boot.php:71
+msgid "MyMail"
+msgstr "MyMail"
+
+#: plugin/boot.php:72
+msgid "Adds subscribers to the plugin MyMail."
+msgstr "Добавить подписчиков в плагин MyMail."
+
+#: plugin/boot.php:80
+msgid "Mailster"
+msgstr ""
+
+#: plugin/boot.php:81
+msgid "Adds subscribers to the plugin Mailster."
+msgstr "Добавить подписчиков в плагин Mailster."
+
+#: plugin/boot.php:89
+msgid "Acumbamail"
+msgstr "Acumbamail"
+
+#: plugin/boot.php:90
+msgid "Adds subscribers to your Acumbamail account."
+msgstr "Добавить подписчиков на ваш аккаунт в Acumbamail."
+
+#: plugin/boot.php:98
+msgid "K-news"
+msgstr "K-news"
+
+#: plugin/boot.php:99
+msgid "Adds subscribers to the plugin K-news."
+msgstr "Добавить подписчиков в плагин K-news."
+
+#: plugin/boot.php:107
+msgid "FreshMail"
+msgstr "FreshMail"
+
+#: plugin/boot.php:108
+msgid "Adds subscribers to your FreshMail account."
+msgstr "Добавить подписчиков на ваш аккаунт в FreshMail."
+
+#: plugin/boot.php:116
+msgid "Sendy"
+msgstr "Sendy"
+
+#: plugin/boot.php:117
+msgid "Adds subscribers to your Sendy application."
+msgstr "Добавить подписчиков на ваш аккаунт в Sendy."
+
+#: plugin/boot.php:126
+msgid "SmartEmailing"
+msgstr "SmartEmailing"
+
+#: plugin/boot.php:127
+msgid "Adds subscribers to your SmartEmailing account."
+msgstr "Добавить подписчиков на ваш аккаунт в SmartEmailing."
+
+#: plugin/boot.php:135
+msgid "SendInBlue"
+msgstr "SendInBlue"
+
+#: plugin/boot.php:136
+msgid "Adds subscribers to your SendInBlue account."
+msgstr "Добавить подписчиков на ваш аккаунт в SendInBlue."
+
+#: plugin/boot.php:144
+msgid "ActiveCampaign"
+msgstr "ActiveCampaign"
+
+#: plugin/boot.php:145
+msgid "Adds subscribers to your ActiveCampaign account."
+msgstr "Добавить подписчиков на ваш аккаунт в ActiveCampaign."
+
+#: plugin/boot.php:153
+msgid "SendGrid"
+msgstr ""
+
+#: plugin/boot.php:154
+msgid "Adds subscribers to your SendGrid account."
+msgstr "Добавляет подписчиков на ваш аккаунт в SendGrid."
+
+#: plugin/boot.php:163
+msgid "SG Autorepondeur"
+msgstr ""
+
+#: plugin/boot.php:164
+msgid "Adds subscribers to your SG Autorepondeur account."
+msgstr "Добавляет подписчиков на ваш аккаунт в SG Autorepondeur."
+
+#: plugin/boot.php:175
+msgid "PechkinMail"
+msgstr ""
+
+#: plugin/boot.php:176
+msgid "Adds subscribers to your PechkinMail account."
+msgstr "Добавляет подписчиков на ваш аккаунт в PechkinMail."
+
+#: plugin/boot.php:186
+msgid "Adds subscribers to your JustClick account"
+msgstr "Добавляет подписчиков на ваш аккаунт в JustClick."
+
+#: plugin/boot.php:196
+msgid "Adds subscribers to your Sendpulse account"
+msgstr "Добавить подписчиков на ваш аккаунт в Sendpulse."
+
+#: plugin/boot.php:206
+msgid "Adds subscribers to your Mailerlite account"
+msgstr "Добавить подписчиков на ваш аккаунт в Mailerlite."
+
+#: plugin/boot.php:216
+msgid "Adds subscribers to your Unisender account."
+msgstr "Добавляет подписчиков на ваш аккаунт в Unisender."
+
+#: plugin/includes/subscription/activecampaign/class.activecampaign.php:49
+#, php-format
+msgid "Unexpected error occurred during connection to ActiveCampaign. %s"
+msgstr ""
+"Произошла непредвиденная ошибка во время подключения к ActiveCampaign. %s"
+
+#: plugin/includes/subscription/activecampaign/class.activecampaign.php:57
+#: plugin/includes/subscription/sendinblue/class.sendinblue.php:27
+#: plugin/includes/subscription/sendinblue/class.sendinblue.php:34
+#, php-format
+msgid "Unexpected error occurred during connection to SendInBlue. %s"
+msgstr "Произошла непредвиденная ошибка во время подключения к SendInBlue. %s"
+
+#: plugin/includes/subscription/activecampaign/class.activecampaign.php:231
+msgid "You can change this checkbox in your ActiveCampaign account."
+msgstr "Вы можете изменить этот флажок в вашей учетной записи ActiveCampaign."
+
+#: plugin/includes/subscription/activecampaign/class.activecampaign.php:232
+msgid "Please visit your ActiveCampaign account to modify the choices."
+msgstr ""
+"Пожалуйста, посетите ваш аккаунт на ActiveCampaign, чтобы изменить выбор."
+
+#: plugin/includes/subscription/acumbamail/class.acumbamail.php:16
+msgid "The Acumbamail Customer ID is not specified."
+msgstr "Не указан идентификатор клиента Acumbamail."
+
+#: plugin/includes/subscription/acumbamail/class.acumbamail.php:19
+msgid "The Acumbamail API Token is not specified."
+msgstr "Не указан API токен Acumbamail."
+
+#: plugin/includes/subscription/acumbamail/class.acumbamail.php:43
+#: plugin/includes/subscription/acumbamail/class.acumbamail.php:48
+#, php-format
+msgid "Unexpected error occurred during connection to Acumbamail: %s"
+msgstr "Произошла непредвиденная ошибка во время подключения к Acumbamail: %s"
+
+#: plugin/includes/subscription/aweber/class.aweber.php:70
+msgid ""
+"Unable to connect your Aweber Account. The Authorization Code is incorrect."
+msgstr "Не удается подключить учетную запись Aweber. Неверный код авторизации."
+
+#: plugin/includes/subscription/database/class.database.php:51
+#: plugin/includes/subscription/database/class.database.php:52
+msgid "Custom Field"
+msgstr "Произвольное поле"
+
+#: plugin/includes/subscription/freshmail/class.freshmail.php:48
+#, php-format
+msgid "Unexpected error occurred during connection to FreshMail. %s"
+msgstr "Произошла непредвиденная ошибка во время подключения к FreshMail. %s"
+
+#: plugin/includes/subscription/freshmail/class.freshmail.php:199
+#: plugin/includes/subscription/mailchimp/class.mailchimp.php:285
+msgid "You can change this checkbox in your MailChimp account."
+msgstr "Вы можете изменить этот флажок в аккаунте MailChimp."
+
+#: plugin/includes/subscription/freshmail/class.freshmail.php:200
+#: plugin/includes/subscription/mailchimp/class.mailchimp.php:286
+#, php-format
+msgid ""
+"Please visit your MailChimp account to modify the choices. <a href=\"%s\" "
+"target=\"_blank\">Learn more</a>."
+msgstr ""
+"Посетите свой MailChimp аккаунт, чтобы изменить выбор. <a href=\"%s\" target="
+"\"_blank\">Узнать больше</a>."
+
+#: plugin/includes/subscription/getresponse/class.getresponse.php:36
+#: plugin/includes/subscription/mailchimp/class.mailchimp.php:32
+msgid "The API Key is incorrect."
+msgstr "Неверный ключ API."
+
+#: plugin/includes/subscription/getresponse/class.getresponse.php:198
+msgid ""
+"Incorrect value. Please enter a valid phone number preceded by \"+\" and a "
+"country code."
+msgstr ""
+"Неверное значение. Пожалуйста, введите корректный телефонный номер, "
+"начинающийся с «+» и код страны."
+
+#: plugin/includes/subscription/getresponse/class.getresponse.php:240
+msgid "Please visit your GetResponse account to modify the choices."
+msgstr "Пожалуйста, посетите ваш аккаунт в GetResponse, чтобы изменить выбор."
+
+#: plugin/includes/subscription/knews/class.knews.php:60
+msgid ""
+"Unable to add a subscriber to the plugin K-news due to a SQL error. Please "
+"contact the support service."
+msgstr ""
+"Не удается добавить подписчика в плагин K-news из-за ошибки SQL. Пожалуйста, "
+"обратитесь в службу поддержки."
+
+#: plugin/includes/subscription/knews/class.knews.php:138
+msgid ""
+"Unable to add a subscriber to the specified list due to a SQL error. Please "
+"contact the support service."
+msgstr ""
+"Не удается добавить подписчика в указанный список из-за ошибки SQL. "
+"Пожалуйста, обратитесь в службу поддержки."
+
+#: plugin/includes/subscription/knews/class.knews.php:179
+msgid ""
+"Unable to add a new subscriber via the plugin K-news. Please contact the "
+"support service."
+msgstr ""
+"Не удается добавить нового подписчика через плагин  K-news. Пожалуйста, "
+"обратитесь в службу поддержки."
+
+#: plugin/includes/subscription/knews/class.knews.php:202
+msgid ""
+"Unable to send the confirmation email via the plugin K-news. Please make "
+"sure that the plugin K-news is able to send emails."
+msgstr ""
+"Не удается отправить подтверждение по электронной почте через плагин K-news. "
+"Пожалуйста, убедитесь, что плагин K-news имеет возможность отправлять "
+"электронную почту."
+
+#: plugin/includes/subscription/knews/class.knews.php:220
+#: plugin/includes/subscription/mailster/class.mailster.php:193
+#: plugin/includes/subscription/mymail/class.mymail.php:193
+msgid "Invalid request. Item ID is not set."
+msgstr "Недопустимый запрос. ID элемента не задано."
+
+#: plugin/includes/subscription/knews/class.knews.php:257
+#: plugin/includes/subscription/mailpoet/class.mailpoet.php:257
+#: plugin/includes/subscription/mailpoet/class.mailpoet.php:286
+#: plugin/includes/subscription/mailster/class.mailster.php:315
+#: plugin/includes/subscription/mymail/class.mymail.php:315
+msgid ""
+"The operation is canceled because the website administrator deleted your "
+"email from the list."
+msgstr ""
+"Операция отменена, потому что администратор веб-сайта исключил ваш email из "
+"списка рассылки."
+
+#: plugin/includes/subscription/knews/class.knews.php:276
+#, php-format
+msgid ""
+"Sorry, the plugin doesn't custom fields for K-News. Please <a href=\"%s\" "
+"target=\"_blank\">contact us</a> if you need this feature."
+msgstr ""
+"К сожалению, плагин не имеет произвольных полей для  K-News. Пожалуйста, <a "
+"href=\"%s\" target=\"_blank\">свяжитесь с нами</a>, если вам нужна эта "
+"функция."
+
+#: plugin/includes/subscription/mailchimp/class.mailchimp.php:215
+#, php-format
+msgid ""
+"Error: %s. Please try to refresh this page or update your <a href=\"%s\" "
+"target=\"_blank\">subscription settings</a>."
+msgstr ""
+"Ошибка: %s. Пожалуйста, попробуйте обновить эту страницу или обновить <a "
+"href=\"%s\" target=\"_blank\">Параметры подписки</a>."
+
+#: plugin/includes/subscription/mailpoet/class.mailpoet.php:24
+#: plugin/includes/subscription/mailpoet/class.mailpoet.php:61
+msgid "The MailPoet plugin is not found on your website."
+msgstr "Плагин MailPoet не найден на вашем сайте."
+
+#: plugin/includes/subscription/mailpoet/class.mailpoet.php:438
+#: plugin/includes/subscription/mailpoet/class.mailpoet.php:571
+msgid "You can change this checkbox in the settings of your MailPoet forms."
+msgstr ""
+"Вы можете изменить этот флажок в настройках форм вашего плагина MailPoet."
+
+#: plugin/includes/subscription/mailpoet/class.mailpoet.php:439
+#: plugin/includes/subscription/mailpoet/class.mailpoet.php:572
+msgid "Please visit the form editor in MailPoet to modify the choices."
+msgstr "Пожалуйста, откройте редактор форм в MailPoet, чтобы изменить выбор."
+
+#: plugin/includes/subscription/mailster/class.mailster.php:28
+#: plugin/includes/subscription/mailster/class.mailster.php:54
+msgid "The Mailster plugin is not found on your website."
+msgstr ""
+"Плагин Mailster не найден на вашем сайте. Email адреса не будут сохранены."
+
+#: plugin/includes/subscription/mailster/class.mailster.php:33
+#: plugin/includes/subscription/mailster/class.mailster.php:39
+msgid ""
+"Unable to connect with the Mailster Lists Manager. Your version of Mailster "
+"plugin is not supported. Please contact OnePress support."
+msgstr ""
+"Не удалось соединиться с менеджером списков Mailster. Ваша версия Mailster "
+"не поддерживается нашим плагином. Обратитесь в службу поддержки OnePress."
+
+#: plugin/includes/subscription/mailster/class.mailster.php:59
+#: plugin/includes/subscription/mailster/class.mailster.php:65
+msgid ""
+"Unable to connect with the Mailster Subscribers Manager. Your version of "
+"Mailster plugin is not supported. Please contact OnePress support."
+msgstr ""
+"Не удалось соединиться с менеджером подписок Mailster. Ваша версия Mailster "
+"не поддерживается нашим плагином. Обратитесь в службу поддержки OnePress."
+
+#: plugin/includes/subscription/mailster/class.mailster.php:359
+#: plugin/includes/subscription/mymail/class.mymail.php:359
+msgid "Unexpected error occured."
+msgstr "Произошла непредвиденная ошибка"
+
+#: plugin/includes/subscription/mailster/class.mailster.php:428
+#: plugin/includes/subscription/mymail/class.mymail.php:428
+#, php-format
+msgid ""
+"Please visit  <a href=\"%s\" target=\"_blank\">this page</a> to modify the "
+"choices. After that, re-save the locker."
+msgstr ""
+"Пожалуйста, посетите <a href=\"%s\" target=\"_blank\">эту страницу</a> для "
+"изменения выбора. После этого повторно сохраните замок."
+
+#: plugin/includes/subscription/mymail/class.mymail.php:28
+#: plugin/includes/subscription/mymail/class.mymail.php:54
+#: plugin/includes/subscription/sendy/class.sendy.php:28
+#: plugin/includes/subscription/sendy/class.sendy.php:54
+msgid "The MyMail plugin is not found on your website."
+msgstr "Плагин MyMail не найден на вашем сайте."
+
+#: plugin/includes/subscription/mymail/class.mymail.php:33
+#: plugin/includes/subscription/mymail/class.mymail.php:39
+#: plugin/includes/subscription/sendy/class.sendy.php:33
+#: plugin/includes/subscription/sendy/class.sendy.php:39
+msgid ""
+"Unable to connect with the MyMail Lists Manager. Your version of MyMail "
+"plugin is not supported. Please contact OnePress support."
+msgstr ""
+"Не удалось соединиться с менеджером списков MyMail. Ваша версия MyMail не "
+"поддерживается нашим плагином. Обратитесь в службу поддержки OnePress."
+
+#: plugin/includes/subscription/mymail/class.mymail.php:59
+#: plugin/includes/subscription/mymail/class.mymail.php:65
+#: plugin/includes/subscription/sendy/class.sendy.php:59
+#: plugin/includes/subscription/sendy/class.sendy.php:65
+msgid ""
+"Unable to connect with the MyMail Subscribers Manager. Your version of "
+"MyMail plugin is not supported. Please contact OnePress support."
+msgstr ""
+"Не удалось соединиться с менеджером подписок MyMail. Ваша версия MyMail не "
+"поддерживается нашим плагином. Обратитесь в службу поддержки OnePress."
+
+#: plugin/includes/subscription/pechkinmail/class.pechkinmail.php:131
+msgid "Request to the api was failed."
+msgstr "Запрос к api был отклонен."
+
+#: plugin/includes/subscription/sendgrid/class.sendgrid.php:112
+msgid "Unable to add a new user. Please contact OnePress support."
+msgstr ""
+"Не удается добавить нового пользователя. Обратитесь в службу поддержки "
+"OnePress."
+
+#: plugin/includes/subscription/sendgrid/class.sendgrid.php:234
+msgid ""
+"Access denied. Please make sure that you set Full Access for Mail Send and "
+"Marketing Campaigns in settings of your API key in SendGrid."
+msgstr ""
+"Доступ запрещен. Пожалуйста, убедитесь, что вы разрешили доступ для отправки "
+"почты и маркетинговых кампаний в настройках вашего API приложения в SendGrid."
+
+#: plugin/includes/subscription/sendgrid/class.sendgrid.php:241
+#, php-format
+msgid "Unknown error. Please contact OnePress support [code %d]"
+msgstr "Неизвестная ошибка. Обратитесь в службу поддержки OnePress [код %d]"
+
+#: plugin/includes/subscription/sendinblue/class.sendinblue.php:138
+#, php-format
+msgid ""
+"Sorry, the plugin doesn't support custom fields for SendInBlue. Please <a "
+"href=\"%s\" target=\"_blank\">contact us</a> if you need this feature."
+msgstr ""
+"К сожалению, плагин не имеет произвольных полей  для SendInBlue. Пожалуйста, "
+"<a href=\"%s\" target=\"_blank\">свяжитесь с нами</a>, если вам нужна эта "
+"функция."
+
+#: plugin/includes/subscription/sendy/class.sendy.php:82
+#: plugin/includes/subscription/sgautorepondeur/class.sgautorepondeur.php:20
+msgid "The Sendy API Key is not specified."
+msgstr "Не указан API ключ для Sendy."
+
+#: plugin/includes/subscription/sendy/class.sendy.php:85
+#: plugin/includes/subscription/sgautorepondeur/class.sgautorepondeur.php:23
+msgid "The Sendy Installation is not specified."
+msgstr "Не указан Installation для Sendy."
+
+#: plugin/includes/subscription/sendy/class.sendy.php:99
+#: plugin/includes/subscription/sendy/class.sendy.php:104
+#: plugin/includes/subscription/sgautorepondeur/class.sgautorepondeur.php:41
+#: plugin/includes/subscription/sgautorepondeur/class.sgautorepondeur.php:46
+#, php-format
+msgid "Unexpected error occurred during connection to Sendy: %s"
+msgstr "Произошла непредвиденная ошибка во время подключения к Sendy: %s"
+
+#: plugin/includes/subscription/sendy/class.sendy.php:208
+#, php-format
+msgid ""
+"Sorry, the plugin doesn't custom fields for Sendy. Please <a href=\"%s\" "
+"target=\"_blank\">contact us</a> if you need this feature."
+msgstr ""
+"К сожалению, плагин не имеет произвольных полей для Sendy. Пожалуйста, <a "
+"href=\"%s\" target=\"_blank\">свяжитесь с нами</a>, если вам нужна эта "
+"функция."
+
+#: plugin/includes/subscription/sgautorepondeur/class.sgautorepondeur.php:75
+msgid "The Activation Code of SG Autorepondeur is not specified."
+msgstr "Не указан код активации от SG Autorepondeur."
+
+#: plugin/includes/subscription/sgautorepondeur/class.sgautorepondeur.php:78
+msgid "The Member Id of SG Autorepondeur is not specified."
+msgstr "Не указан ID пользователя SG Autorepondeur."
+
+#: plugin/includes/subscription/sgautorepondeur/class.sgautorepondeur.php:81
+msgid "The List Id of SG Autorepondeur is not specified."
+msgstr "Не указан id списка рассылок в SG Autorepondeur."
+
+#: plugin/includes/subscription/sgautorepondeur/class.sgautorepondeur.php:144
+#, php-format
+msgid "Unexpected error occurred during connection to SG Autorepondeur: %s"
+msgstr ""
+"Произошла непредвиденная ошибка во время подключения к SG Autorepondeur: %s"
+
+#: plugin/includes/subscription/sgautorepondeur/class.sgautorepondeur.php:150
+msgid "The data passed incorrect or list ID not found."
+msgstr "Переданные данные не корректны или id списка не существует."
+
+#: plugin/includes/subscription/smartemailing/class.smartemailing.php:14
+msgid "The Username or API Key Secret not set."
+msgstr "Не задано имя пользователя или секретный ключ API."
+
+#: plugin/includes/subscription/smartemailing/class.smartemailing.php:38
+#: plugin/includes/subscription/smartemailing/class.smartemailing.php:154
+#: plugin/includes/subscription/smartemailing/class.smartemailing.php:185
+#: plugin/includes/subscription/smartemailing/class.smartemailing.php:226
+#: plugin/includes/subscription/smartemailing/class.smartemailing.php:249
+#, php-format
+msgid "Unexpected error occurred during connection to SmartEmailing. %s."
+msgstr ""
+"Произошла непредвиденная ошибка во время подключения к SmartEmailing. %s."
+
+#: plugin/includes/subscription/smartemailing/class.smartemailing.php:46
+msgid ""
+"Unexpected error occurred during connection to SmartEmailing. Invalid "
+"response."
+msgstr ""
+"Произошла непредвиденная ошибка во время подключения к SmartEmailing. "
+"Недопустимый ответ."
+
+#: plugin/includes/subscription/smartemailing/class.smartemailing.php:271
+#, php-format
+msgid ""
+"Sorry, the plugin doesn't custom fields for SmartEmailing. Please <a href="
+"\"%s\" target=\"_blank\">contact us</a> if you need this feature."
+msgstr ""
+"К сожалению, плагин не имеет произвольных полей для SmartEmailing. "
+"Пожалуйста, <a href=\"%s\" target=\"_blank\">свяжитесь с нами</a>, если вам "
+"нужна эта функция."
+
+#~ msgid ""
+#~ "The plugin you are using is a free version of the popular <a target="
+#~ "\"_blank\" href=\"%s\"> Opt-In Panda</a> plugin. \n"
+#~ "                We offer you to try the premium version for 7 days "
+#~ "absolutely for free. We are sure you will enjoy it!"
+#~ msgstr ""
+#~ "Это бесплатная версия популярного плагина <a target=\"_blank\" href=\"%s"
+#~ "\"> Opt-In Panda</a>. \n"
+#~ " Вы можете попробовать премиум возможности плагина в течении 7 дней "
+#~ "абсолютно бесплатно. Мы уверены, вам понравиться!"

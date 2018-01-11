@@ -1,0 +1,103 @@
+{
+  "assemblies": {
+    "__global__": {
+      "delete": [
+        "/libs/onepress/compiler",
+        "compiler.ini",
+        "package.json",
+        "node_modules",
+        "Gruntfile.js",
+        "git-submodules.sh",
+        "/sr/"
+      ]
+    },
+    "build": {
+      "free": {
+        "delete": [
+          "advanced-options.php",
+          "social-options.php",
+          "visability-options.php",
+          "/libs/onepress/admixture",
+          "/panda-items/signin-locker",
+          "addons"
+        ]
+      },
+      "premium": {
+        "delete": [
+          "more-features.php",
+          "addons",
+          "premium.php",
+          "email-locker/admin/assets/img/preview/"
+        ]
+      },
+      "ultimate": {
+        "delete": [
+          "more-features.php",
+          "premium.php",
+          "admin/assets/img/preview/"
+        ]
+      },
+      "offline": {
+        "extends": "premium"
+      }
+    },
+    "lang": {
+      "en_US": {
+        "delete": [
+          "/lang",
+          "ru_RU",
+          "tr_TR"
+        ]
+      },
+      "ru_RU": {
+        "delete": ["en_US"]
+      }
+    }
+  },
+  "constants": {
+    "var": "optinpanda",
+    "version": "2.0.1",
+    "api": "http://api.byonepress.com/1.1/",
+    "optinpanda": [
+      {
+        "value": "Opt-In Panda | BizPanda"
+      }
+    ],
+    "name": [
+      {
+        "value": "optinpanda"
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "optinpanda-rus"
+      }
+    ],
+    "purchaseUrl": [
+      {
+        "value": "http://api.byonepress.com/public/1.0/get/?product=optinpanda"
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "http://optinpanda.ru"
+      }
+    ],
+    "pluginUrl": [
+      {
+        "value": "http://api.byonepress.com/public/1.0/get/?product=optinpanda"
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "http://optinpanda.ru?utm_source=plugin&utm_medium=plugin-uri&utm_campaign=plugin-uri"
+      }
+    ],
+    "description": [
+      {
+        "value": "Opt-In Panda is a lead-generation that motivates visitors to opt-in in return to access your premium content (e.g. downloads, discounts, videos and so on)."
+      },
+      {
+        "if": {"lang": "ru_RU"},
+        "value": "Opt-In Panda - это мощный магнит для подписчиков, плагин работает по принципу email замка и создает сильный призыв к действию. Вы можете скрыть любой контент на вашем сайте и открыть его только для подписчиков. Все что вам нужно - это выбрать часть контента, которую вы хотите скрыть и нажать всего на одну кнопку, чтобы установить замок."
+      }
+    ]
+  }
+}
