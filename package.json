@@ -56,7 +56,7 @@
   },
   "constants": {
     "var": "optinpanda",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "api": "http://api.byonepress.com/1.1/",
     "optinpanda": [
       {

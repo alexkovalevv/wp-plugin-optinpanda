@@ -4,7 +4,7 @@
 	 * Plugin URI: {comp:pluginUrl}
 	 * Description: {comp:description}
 	 * Author: OnePress
-	 * Version: 2.0.1
+	 * Version: 2.0.2
 	 * Author URI: http://byonepress.com
 	 */
 
@@ -97,7 +97,7 @@
 			$optinpanda = new Factory000_Plugin(__FILE__, array(
 				'name' => 'optinpanda-rus',
 				'title' => 'Opt-In Panda',
-				'version' => '2.0.1',
+				'version' => '2.0.2',
 				'assembly' => BUILD_TYPE,
 				'lang' => LANG_TYPE,
 				'api' => 'http://api.byonepress.com/1.1/',
@@ -113,7 +113,7 @@
 			$optinpanda = new Factory000_Plugin(__FILE__, array(
 				'name' => 'optinpanda',
 				'title' => 'Opt-In Panda',
-				'version' => '2.0.1',
+				'version' => '2.0.2',
 				'assembly' => BUILD_TYPE,
 				'lang' => LANG_TYPE,
 				'api' => 'http://api.byonepress.com/1.1/',
