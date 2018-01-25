@@ -84,6 +84,7 @@
 		BizPanda::enableFeature('subscription');
 		BizPanda::enableFeature('terms');
 		BizPanda::enableFeature('social');
+		BizPanda::enableFeature('vk');
 
 		if( !onp_build('free') ) {
 			BizPanda::enableFeature('linkedin');
